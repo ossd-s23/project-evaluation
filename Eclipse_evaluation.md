@@ -5,7 +5,7 @@ Estela, Zack, Amando
 
 
 
-__Project Name: Eclipse
+__Project Name:__ Eclipse
 
 
 ---
@@ -19,10 +19,10 @@ may be very hard to find. Do not _google_ for answers.
 __Project website:__ [Eclipse](https://www.eclipse.org/)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ The Eclipse Foundation provides our global community of individuals and organizations with a mature, scalable, and business-friendly environment for open source software collaboration and innovation. 
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ It is fairly easy to find the contributing page and it is fairly easy to join as a member, however, in order to contribute you must be in an organization/working group
 
 
 __Contributing instructions:__ [Here](insert link here) 
