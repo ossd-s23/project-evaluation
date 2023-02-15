@@ -39,34 +39,34 @@ __Other communication channels:__ No other communication channels for developers
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/facebook/react/blob/main/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license: MIT License
 
-__Programming Language:__ 
+__Programming Language: JavaScript
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/facebook/react/blob/main/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
+__Are the contributing instructions clear?__ yes, it has detailed instructions on how to contribute and the types of contributions one can make. 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ [Code of Conduct](https://github.com/facebook/react/blob/main/CODE_OF_CONDUCT.md)
+
+__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](https://github.com/facebook/react/blob/main/README.md). 
 
 
-__Number of contributors:__ xxx contributors
+__Are these instructions clear? Do you think they would be easy to follow?__ yes, they were easy to follow. There were only three lines. 
+
+
+__Number of contributors:__ 1602 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [gaearon] (1574 commits) - [Their Latest Commit](insert link here)
+2. [acdlite] (1,145 commits) - [Their Latest Commit](https://github.com/facebook/react/pull/26100)
+3. [sebmarkbage] (917 commits) - [Treat displayName as undefined](https://github.com/facebook/react/pull/26148)
 
 
 __Number of commits:__ xxxx commits

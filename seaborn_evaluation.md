@@ -58,18 +58,18 @@ __URL for instructions for users to download and install the package:__ There ar
 __Are these instructions clear? Do you think they would be easy to follow?__ Yes, these instructions are clear and easy to follow. 
 
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 173 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [mwaskom] (2141 commits) - [Their Latest Commit](https://github.com/mwaskom/seaborn/commit/242a3312b6742f5b255c7ad6bccb7228839c9419)
+2. [MaozGelbart] (70 commits) - [Their Latest Commit](https://github.com/mwaskom/seaborn/commit/ff96e1f0f1b54074f6f4dc5976bdfb4f19646851)
+3. [olgabot] (65 commits) - [Their Latest Commit](https://github.com/mwaskom/seaborn/commit/f9f09981251de6b4e17e60e1c4aed6ee08895c8f)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 3114 commits
 
 __Latest commit__ [de] 
 
