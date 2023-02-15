@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  Hadoop
 
 
 ---
@@ -13,76 +13,86 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Hadoop](https://hadoop.apache.org/)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage. Rather than rely on hardware to deliver high-availability, the library itself is designed to detect and handle failures at the application layer, so delivering a highly-available service on top of a cluster of computers, each of which may be prone to failures. [(Source)](https://hadoop.apache.org/)
 
 
 __How easy was it to find information about contributing on the website?__ 
+Development -> How to Contribute
 
+__Contributing instructions:__ 
+[Contributor Guide](https://cwiki.apache.org/confluence/display/HADOOP/Hadoop+Contributor+Guide)
+[Instructions](https://cwiki.apache.org/confluence/display/HADOOP/How+To+Contribute) 
 
-__Contributing instructions:__ [Here](insert link here) 
+__URL for the code repository:__ 
+[Gitbox](https://gitbox.apache.org/repos/asf?p=hadoop.git)
+[GitHub (mirrored)](https://github.com/apache/hadoop)
 
-__URL for the code repository:__ [Code repository](insert link here)
+__Bug/Issue tracker link:__ 
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+Hadoop Common issues are tracked in the [HADOOP](https://issues.apache.org/jira/projects/HADOOP/issues) Jira instance.
+HDFS issues are tracked in the [HDFS](http://issues.apache.org/jira/browse/HDFS) Jira instance.
+YARN issues are tracked in the [YARN](http://issues.apache.org/jira/browse/YARN) Jira instance.
+MapReduce issues are tracked in the [MAPREDUCE](http://issues.apache.org/jira/browse/MAPREDUCE) Jira instance.
+__Mailing list:__ [Mailing list](https://hadoop.apache.org/mailing_lists.html)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Chat channel:__ Only Mailing Lists are provided. 
 
-__Chat channel:__ [Chat channel](insert link here)
-
-__Other communication channels:__ 
+__Other communication channels:__ N/A
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+Note: Hadoop does not link everything directly to their project repository. They linked most things on their website, and they maintained a comprehensive wiki. 
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__License:__ [Apache License 2.0](https://github.com/apache/hadoop/blob/trunk/LICENSE.txt)
 
-__Programming Language:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__Programming Language:__ Mostly Java (92.8%)
 
-__Are the contributing instructions clear?__ 
+__URL for contributing instructions:__ [Contributing instructions](https://cwiki.apache.org/confluence/display/HADOOP/How+To+Contribute)
 
+__Are the contributing instructions clear?__ Yes
 
 __URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
 
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
+__URL for instructions for users to download and install the package:__ There are multiple ways to install this software 
+[Download](https://hadoop.apache.org/releases.html)
+[Getting Started](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
+
+__Are these instructions clear? Do you think they would be easy to follow?__ Some of them might need little expertise. 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
-
-
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 498 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [aajisaka] (817 commits) - [Their Latest Commit](https://github.com/apache/hadoop/commit/049d1762bd1c3ccfcbbedd73e0c5da50f2a3a6f3)
+2. [vinoduec] (763 commits) - [Their Latest Commit](https://github.com/apache/hadoop/commit/6b74f5d7fc509c55c331249256eec78b7e53b6ce)
+3. [szetszwo] (636 commits) - [Their Latest Commit](https://github.com/apache/hadoop/commit/5022003e0f503e68828ac1cf630b70b50538f4c6)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 26456 commits
 
-__Latest commit__ [de] 
+__Latest commit__: 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [HDFS-16761. Namenode UI for Datanodes page not loading if any data node is down (#5390)](https://gitbox.apache.org/repos/asf?p=hadoop.git;a=commit;h=4cbe19f3a222576970e300db60a41f78545e9524) 
 
-- __who made that commit:__ 
+- __who made that commit:__ 	Zita Dombi <50611074+dombizita@users.noreply.github.com>	
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ bug fix
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ No statistics found [xxx Open Issues](insert link here)
 
     - __url for the last issue created:__ [Last issue created](insert link here)
 
@@ -181,3 +191,4 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
