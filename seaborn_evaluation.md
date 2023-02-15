@@ -19,7 +19,7 @@ __Project website:__ [Seaborn](https://seaborn.pydata.org/)
 __What is the purpose of the project:__ This is a Python package that provides an interface for creating various data visualizations (graphs, charts, etc.)
 
 
-__How easy was it to find information about contributing on the website?__ On the website itself, information about contributing was a little difficult to find and generally pretty vague. We found their recommended contributions [here](https://seaborn.pydata.org/installing.html) but ultimately, all they recommend is flagging bugs to them. They do outline a few specifications (include runnable code, images of the error, etc.), but outside of that, they do not seem to encouraging contribution in any other way on their website. They also recommend asking general support questions on StackOverFlow, where they claim a larger audience will be able to help.
+__How easy was it to find information about contributing on the website?__ On the website itself, information about contributing was a little difficult to find and generally pretty vague. We found their recommended contributions [here](https://seaborn.pydata.org/installing.html) but ultimately, all they recommend is flagging bugs to them. They do outline a few specifications (include runnable code, images of the error, etc.), but outside of that, they do not seem to encouraging contribution in any other way on their website. They also recommend asking general support questions on their [StackOverFlow](https://stackoverflow.com/tags/seaborn), where they claim a larger audience will be able to help.
 
 
 __Contributing instructions:__ [Here](https://github.com/mwaskom/seaborn/blob/master/.github/CONTRIBUTING.md) 
