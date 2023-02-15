@@ -42,7 +42,7 @@ __Other communication channels:__
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://www.eclipse.org/legal/termsofuse.php)
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
