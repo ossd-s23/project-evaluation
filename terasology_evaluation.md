@@ -67,9 +67,9 @@ __Number of contributors:__ 285 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [immortius] (996 commits) - [Their Latest Commit](insert link here)
-2. [Cervator] (856 commits) - [Their Latest Commit](insert link here)
-3. [begla] (803 commits) - [Their Latest Commit](insert link here)
+1. [immortius] (996 commits) - [Their Latest Commit](https://github.com/MovingBlocks/Terasology/commit/0b7698e098cf65ede210da118647f560ab863291)
+2. [Cervator] (856 commits) - [Their Latest Commit](https://github.com/MovingBlocks/Terasology/commit/de37cfa88f0861567fe0d93812293bac396c3599)
+3. [begla] (803 commits) - [Their Latest Commit](https://github.com/MovingBlocks/Terasology/commit/aeb1f56adf83048cb2aec7bbd9c5376885fc6944)
 
 
 __Number of commits:__ 11916 commits
