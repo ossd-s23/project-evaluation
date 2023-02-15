@@ -61,33 +61,36 @@ __Are the contributing instructions clear?__  Yes
 
 __URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://www.python.org/psf/conduct/)
 
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
-
+__URL for instructions for users to download and install the package:__ 
+There are multiple ways to install this software [here](https://www.python.org/downloads/)
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
+The instructions are not that clear for beginners; it doesn’t list further instructions other than download the package.
 
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 2,171 contributors for cpython
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. **gvanrossum** (10,976 commits) - [Their Latest Commit](https://github.com/python/cpython/commit/65b7b6bd23ea789357777f3a0a6f25a79bb04177)
+2. **freddrake** (5,462 commits) - [Their Latest Commit](https://github.com/python/cpython/commit/c7eb7894d3a0878af72bfec9b65d12dd0a1e28e9)
+3. **birkenfeld** (5,026 commits) - [Their Latest Commit](https://github.com/python/cpython/commit/492dc02b01828f346dd62412fefc654e781de923)
 
 
-__Number of commits:__ xxxx commits
+
+__Number of commits:__ 116,029 commits
 
 __Latest commit__ [de] 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__  [Latest commit](https://github.com/python/cpython/commit/eb0c485b6c836abb71932537a5058344d11d7bc8)
 
-- __who made that commit:__ 
+- __who made that commit:__ [erlend-aasland](https://github.com/erlend-aasland)
+
 
 - __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
-
+Removed unnecessary component to Windows DLL
 
 __Issues__
 
