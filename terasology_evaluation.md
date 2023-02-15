@@ -41,13 +41,16 @@ __Other communication channels:__ Forum, Facebook, Twitter, Reddit
 
 __License:__ [License]((https://www.apache.org/licenses/LICENSE-2.0)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) Yes -  license: Apache 2
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+Yes -  license: Apache 2
 
-__Programming Language: Java
+__Programming Language:__ 
+Java
 
 __URL for contributing instructions:__ [Contributing instructions](https://terasology.org/contribute/)
 
-__Are the contributing instructions clear? Yes, there is a whole section on the website dedicated to contributions
+__Are the contributing instructions clear?__ 
+Yes, there is a whole section on the website dedicated to contributions
 
 
 __URL for code of conduct / community norms / community guildelines:__ [Community Guidelines] (https://github.com/MovingBlocks/Terasology/blob/develop/docs/CODE_OF_CONDUCT.md)
@@ -64,9 +67,9 @@ __Number of contributors:__ 285 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [immortius] (996 commits) - [Their Latest Commit](insert link here)
+2. [Cervator] (856 commits) - [Their Latest Commit](insert link here)
+3. [begla] (803 commits) - [Their Latest Commit](insert link here)
 
 
 __Number of commits:__ xxxx commits
@@ -78,8 +81,6 @@ __Latest commit__ [de]
 - __who made that commit:__ 
 
 - __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
-
-
 
 __Issues__
 
