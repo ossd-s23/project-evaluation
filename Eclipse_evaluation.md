@@ -31,7 +31,7 @@ __URL for the code repository:__ [Code repository](insert link here) Requires lo
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://bugs.eclipse.org/bugs/buglist.cgi?bug_status=NEW&bug_status=REOPENED&keywords=helpwanted%2C%20&list_id=9664295)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ [Mailing list](https://accounts.eclipse.org/mailing-list)
 
 __Chat channel:__ [Chat channel](insert link here)
 
