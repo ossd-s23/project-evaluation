@@ -72,15 +72,15 @@ each of them list the link to their latest commit__:
 3. [begla] (803 commits) - [Their Latest Commit](insert link here)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 11916 commits
 
 __Latest commit__ [de] 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/MovingBlocks/Terasology/commit/2dab9f6bdf6cdd61b3784cbeaf9c41a5599af5fe)
 
-- __who made that commit:__ 
+- __who made that commit:__ [NikitasMarakgos](https://github.com/MovingBlocks/Terasology/commits?author=NikitasMaragkos)
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...) A small word change ("Change "Bobbing" to "Head Bobbing" for more clarity.")
 
 __Issues__
 
