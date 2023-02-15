@@ -39,7 +39,7 @@ __Other communication channels:__ Forum, Facebook, Twitter, Reddit
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License]((https://www.apache.org/licenses/LICENSE-2.0)
+__License:__ [License](https://www.apache.org/licenses/LICENSE-2.0)
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 Yes -  license: Apache 2
@@ -53,10 +53,10 @@ __Are the contributing instructions clear?__
 Yes, there is a whole section on the website dedicated to contributions
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines] (https://github.com/MovingBlocks/Terasology/blob/develop/docs/CODE_OF_CONDUCT.md)
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/MovingBlocks/Terasology/blob/develop/docs/CODE_OF_CONDUCT.md)
 
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
-https://terasology.org/downloads/
+__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](https://terasology.org/downloads/). 
+
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
 
