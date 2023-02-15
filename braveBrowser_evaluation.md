@@ -32,7 +32,7 @@ __Mailing list:__ N/A
 
 __Chat channel:__ [Chat channel](https://community.brave.com/)
 
-__Other communication channels:__ 
+__Other communication channels:__ N/A
 
 
 ---
