@@ -22,14 +22,14 @@ __Project website:__ [Eclipse](https://www.eclipse.org/)
 __What is the purpose of the project:__ The Eclipse Foundation provides our global community of individuals and organizations with a mature, scalable, and business-friendly environment for open source software collaboration and innovation. 
 
 
-__How easy was it to find information about contributing on the website?__ It is fairly easy to find the contributing page and it is fairly easy to join as a member, however, in order to contribute you must be in an organization/working group
+__How easy was it to find information about contributing on the website?__ It is fairly easy to find the contributing page and it is fairly easy to join as a member, however, in order to contribute you must be in an organization/working group. But individual users can also contribute by reporting bugs and suggesting enhancements.
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Here]([insert link here](https://www.eclipse.org/contribute/)) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](insert link here) Requires log
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://bugs.eclipse.org/bugs/buglist.cgi?bug_status=NEW&bug_status=REOPENED&keywords=helpwanted%2C%20&list_id=9664295)
 
 __Mailing list:__ [Mailing list](insert link here)
 
