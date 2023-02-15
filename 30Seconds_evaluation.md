@@ -64,9 +64,9 @@ __Number of contributors:__ 264 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [Angelos Chalaris] (1626 commits) - [Their Latest Commit](https://github.com/30-seconds/30-seconds-of-code/commit/40d7ea8c9fd11191b7a48f50071458190f3d099d)
+2. [30 seconds bot] (929 commits) - [Their Latest Commit](https://github.com/30-seconds/30-seconds-of-code/commit/ceb69ea8353f87a288ca61c8e718b01a2073498a)
+3. [Stefan Fejes] (234 commits) - [Their Latest Commit](https://github.com/30-seconds/30-seconds-of-code/commit/cb251407947337ea5601e241233d6dedd6535e47)
 
 
 __Number of commits:__ xxxx commits
