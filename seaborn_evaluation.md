@@ -50,12 +50,12 @@ __URL for contributing instructions:__ [Contributing instructions](https://githu
 __Are the contributing instructions clear?__ Though they are not super welcoming, the contributions are clear. They clearly outline what types of bugs to report and the correct format (reproducable code, output seen, explanation, and the versions of Seaborn that you are using). Further, they are clear about how to report the bug (add a csv to the issues tracker). They also mention that if you believe a new feature should be added to Seaborn that you should open an issue about it to discuss (but they also explicitly say that they are not focused on novel features). 
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines). No Code of Conduct is provided in the repository, but on the GitHub discussions board, it links to GitHub's general community guidelines.
 
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
+__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](https://seaborn.pydata.org/installing.html) and also in their [repository](https://github.com/mwaskom/seaborn/blob/master/doc/installing.rst). 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, these instructions are clear and easy to follow. 
 
 
 __Number of contributors:__ xxx contributors
