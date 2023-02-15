@@ -64,7 +64,7 @@ __Number of contributors:__ 1602 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [gaearon] (1574 commits) - [Their Latest Commit](insert link here)
+1. [gaearon] (1574 commits) - [[Fizz] experimental_useEvent](https://github.com/facebook/react/commit/3de926449681015c4f1eec1147baa03a3cb823f5)
 2. [acdlite] (1,145 commits) - [Their Latest Commit](https://github.com/facebook/react/pull/26100)
 3. [sebmarkbage] (917 commits) - [Treat displayName as undefined](https://github.com/facebook/react/pull/26148)
 
