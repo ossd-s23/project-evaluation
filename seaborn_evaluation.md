@@ -28,12 +28,12 @@ __URL for the code repository:__ [Code repository](https://github.com/mwaskom/se
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/mwaskom/seaborn/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ They do not have a mailing list, but they do have a [Twitter account](https://twitter.com/michaelwaskom)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ They do not have a traditional chat channel, but they do have a discussions board on GitHub. [Discussions Board](https://github.com/mwaskom/seaborn/discussions)
 
 __Other communication channels:__ 
-
+They also recommend asking questions on their [StackOverFlow](https://stackoverflow.com/tags/seaborn).
 
 ---
 
