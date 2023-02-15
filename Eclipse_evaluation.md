@@ -33,7 +33,7 @@ __Bug/Issue tracker link:__ [Bug/Issue tracker](https://bugs.eclipse.org/bugs/bu
 
 __Mailing list:__ [Mailing list](insert link here)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Chat channel](https://bugs.eclipse.org/bugs/)
 
 __Other communication channels:__ 
 
