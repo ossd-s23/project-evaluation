@@ -22,13 +22,13 @@ __What is the purpose of the project:__ An open source browser focused on privac
 __How easy was it to find information about contributing on the website?__ We found two possible options to find information about contributing. First, clicking Community in the footer led to a page that had a Contributing section. Second, clicking Github in the footer led to the Github repository and you could search for brave-browser to find the Contributing.MD file.
 
 
-__Contributing instructions:__ [Here]() 
+__Contributing instructions:__ N/A
 
-__URL for the code repository:__ [Code repository]()
+__URL for the code repository:__ N/A
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker]()
+__Bug/Issue tracker link:__ N/A
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ N/A
 
 __Chat channel:__ [Chat channel](https://community.brave.com/)
 
@@ -50,7 +50,7 @@ __URL for contributing instructions:__ [Contributing instructions](https://githu
 __Are the contributing instructions clear?__ Yes, it outlines the types of contributions clearly and explains how new contributors can get started.
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines]()
+__URL for code of conduct / community norms / community guildelines:__ N/A
 
 __URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](https://github.com/brave/brave-browser/blob/master/README.md). 
 
@@ -86,7 +86,7 @@ __Issues__
 
     - __url for the last issue created:__ [Last issue created](https://github.com/brave/brave-browser/issues/28543)
 
-    - __how many users discuss the issue:__ 0 person
+    - __how many users discuss the issue:__ 0 people
     
     - __when was the issue reported:__ February 15, 1:18PM
     
@@ -107,9 +107,9 @@ __Issues__
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ No
 
-    - __how many of such issues are there?__ 0 issues
+    - __how many of such issues are there?__ N/A
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ N/A
 
 
 
