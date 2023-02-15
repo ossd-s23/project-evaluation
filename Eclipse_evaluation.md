@@ -48,7 +48,7 @@ __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__
 
 __Programming Language:__ 
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://www.eclipse.org/contribute/)
 
 __Are the contributing instructions clear?__ 
 
