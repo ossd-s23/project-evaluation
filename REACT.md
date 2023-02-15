@@ -13,26 +13,26 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Website](https://reactjs.org/)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ A flexible JavaScript library for creating user interfaces.
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ easy to find it, it was on the footer of the website
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Here](https://reactjs.org/docs/how-to-contribute.html) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/facebook/react)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/facebook/react/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ N/A
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Chat channel](https://discord.com/invite/reactiflux)
 
-__Other communication channels:__ 
+__Other communication channels:__ No other communication channels for developers. 
 
 
 ---
