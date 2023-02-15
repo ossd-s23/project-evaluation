@@ -66,7 +66,7 @@ each of them list the link to their latest commit__:
 
 1. [gaearon] (1574 commits) - [Their Latest Commit](insert link here)
 2. [acdlite] (1,145 commits) - [Their Latest Commit](https://github.com/facebook/react/pull/26100)
-3. [sebmarkbage] (917 commits) - [Their Latest Commit](insert link here)
+3. [sebmarkbage] (917 commits) - [Treat displayName as undefined](https://github.com/facebook/react/pull/26148)
 
 
 __Number of commits:__ xxxx commits
