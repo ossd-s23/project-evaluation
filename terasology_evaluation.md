@@ -39,26 +39,26 @@ __Other communication channels:__ Forum, Facebook, Twitter, Reddit
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License]((https://www.apache.org/licenses/LICENSE-2.0)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) Yes -  license: Apache 2
 
-__Programming Language:__ 
+__Programming Language: Java
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://terasology.org/contribute/)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear? Yes, there is a whole section on the website dedicated to contributions
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines] (https://github.com/MovingBlocks/Terasology/blob/develop/docs/CODE_OF_CONDUCT.md)
 
 __URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
-
+https://terasology.org/downloads/
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
 
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 285 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
