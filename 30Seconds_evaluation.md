@@ -13,26 +13,26 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [30 Second of Code](https://www.30secondsofcode.org/)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ An accessible educational medium for developers and software development as a whole. 30 Seconds of Code helps anyone learn to code, and is a welcoming open source community.
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ Very easy, the [FAQ](https://www.30secondsofcode.org/faq) lists all the basic questions for how to contribute and enter the community, located at the bottom of the website
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Located in the FAQ that redirects to their GitHub Repo](https://github.com/30-seconds/brand-and-design/blob/master/writing-guidelines.md)
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/30-seconds)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker, each repo has its own issue tracker](https://github.com/30-seconds/30-seconds-web/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ [Mailing list - Following their Twitter Page](https://twitter.com/30secondsofcode)
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ No chat channel available in the main project wesbite
 
-__Other communication channels:__ 
+__Other communication channels:__ N/A
 
 
 ---
