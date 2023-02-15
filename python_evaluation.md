@@ -40,26 +40,26 @@ __Chat channel:__
 Python’s Discord channel is actually [private](https://devguide.python.org/developer-workflow/communication-channels/#discord-private-chat-server), but they also have a Libera chat channel available for discussing Python’s development
 
 __Other communication channels:__ 
-[Discourse Forums] (https://discuss.python.org/)
-IRC channel on [Libera.Chat] (https://libera.chat/)
+[Discourse Forums](https://discuss.python.org/)
+IRC channel on [Libera.Chat](https://libera.chat/)
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/python/cpython/blob/main/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes 
 
-__Programming Language:__ 
+__Programming Language:__ Python, C, C++
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Python Developer’s Guide](https://devguide.python.org/)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__  Yes
 
 
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://www.python.org/psf/conduct/)
 
 __URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
 
