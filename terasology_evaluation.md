@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  
+__Project Name:__  Terasology
 
 
 ---
@@ -13,26 +13,26 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Website](https://terasology.org/)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__ To make a voxel world game that can host many different types of game modes
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ Very easy, on the top menu tab
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Here](https://terasology.org/contribute/)
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/MovingBlocks/Terasology)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/MovingBlocks/Terasology/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ [Mailing list](insert link here) None
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Chat channel](https://discord.com/invite/Terasology)
 
-__Other communication channels:__ 
+__Other communication channels:__ Forum, Facebook, Twitter, Reddit
 
 
 ---
@@ -123,28 +123,28 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 29 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/MovingBlocks/Terasology/pull/5085)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ Created on Dec 8, 2022
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/MovingBlocks/Terasology/pull/3236)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Jan 19, 2018
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 3008 closed pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/MovingBlocks/Terasology/pull/5089)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 2 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  Jan 24, 2023
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Jan 28, 2023
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ In a few days, so relatively yes
 
 
 
