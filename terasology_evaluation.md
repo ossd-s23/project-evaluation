@@ -80,44 +80,36 @@ __Latest commit__ [de]
 - __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
 
 
+
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [476 Open Issues](https://github.com/MovingBlocks/Terasology/issues) 
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
-
-    - __how many users discuss the issue:__ xx person
+    - __url for the last issue created:__ [Last issue created](https://github.com/MovingBlocks/Terasology/issues/5090)
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 19 hours ago
     
+- __how many closed issues are there:__ [1552 closed issues](https://github.com/MovingBlocks/Terasology/issues?q=is%3Aissue+is%3Aclosed)
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
-
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/MovingBlocks/Terasology/issues/5088)
+    
+    - __how many users discussed the issue:__ 1 people
+    
+    - __when was the issue reported:__ 3 weeks ago
+    
+    - __when was the issue closed:__ 3 weeks ago
+    
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/MovingBlocks/Terasology/issues/4917)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
-
-
-
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
-
-    - __how many of such issues are there?__ xxx issues
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/MovingBlocks/Terasology/issues/5069)
     
-    - __look at a few of them, do they look beginner friendly?__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__yes  
 
-
-
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
-
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 42
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ yes
 
 
 
