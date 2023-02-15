@@ -74,9 +74,9 @@ __Number of contributors:__ 2,171 contributors for cpython
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. **gvanrossum** (10,976 commits) - [Their Latest Commit](https://github.com/python/cpython/commit/65b7b6bd23ea789357777f3a0a6f25a79bb04177)
-2. **freddrake** (5,462 commits) - [Their Latest Commit](https://github.com/python/cpython/commit/c7eb7894d3a0878af72bfec9b65d12dd0a1e28e9)
-3. **birkenfeld** (5,026 commits) - [Their Latest Commit](https://github.com/python/cpython/commit/492dc02b01828f346dd62412fefc654e781de923)
+1. [gvanrossum](https://github.com/gvanrossum) (10,976 commits) - [Their Latest Commit](https://github.com/python/cpython/commit/65b7b6bd23ea789357777f3a0a6f25a79bb04177)
+2. [freddrake](https://github.com/freddrake) (5,462 commits) - [Their Latest Commit](https://github.com/python/cpython/commit/c7eb7894d3a0878af72bfec9b65d12dd0a1e28e9)
+3. [birkenfeld](https://github.com/birkenfeld) (5,026 commits) - [Their Latest Commit](https://github.com/python/cpython/commit/492dc02b01828f346dd62412fefc654e781de923)
 
 
 
@@ -94,7 +94,7 @@ Removed unnecessary component to Windows DLL
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [6,767 Open Issues](https://github.com/python/cpython/issues)
 
     - __url for the last issue created:__ [Last issue created](insert link here)
 
