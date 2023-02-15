@@ -59,7 +59,7 @@ __URL for instructions for users to download and install the package:__ There ar
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
-
+Yes, instructions are clear and easy to follow
 
 __Number of contributors:__ 285 contributors
 
@@ -100,13 +100,13 @@ __Issues__
     
     - __when was the issue closed:__ 3 weeks ago
     
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Relativelty active
 
     - __example of a lot of good discussion:__ [Good discussion](https://github.com/MovingBlocks/Terasology/issues/4917)
     
     - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/MovingBlocks/Terasology/issues/5069)
     
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__yes  
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ yes  
 
     - __how many of such issues are there?__ 42
     
