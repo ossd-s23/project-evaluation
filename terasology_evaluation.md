@@ -28,7 +28,7 @@ __URL for the code repository:__ [Code repository](https://github.com/MovingBloc
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/MovingBlocks/Terasology/issues)
 
-__Mailing list:__ [Mailing list](insert link here) None
+__Mailing list:__ None
 
 __Chat channel:__ [Chat channel](https://discord.com/invite/Terasology)
 
@@ -59,7 +59,7 @@ __URL for instructions for users to download and install the package:__ There ar
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
-
+Yes, instructions are clear and easy to follow
 
 __Number of contributors:__ 285 contributors
 
@@ -74,7 +74,7 @@ each of them list the link to their latest commit__:
 
 __Number of commits:__ 11916 commits
 
-__Latest commit__ [de] 
+__Latest commit__ 
 
 - __link to the commit:__ [Latest commit](https://github.com/MovingBlocks/Terasology/commit/2dab9f6bdf6cdd61b3784cbeaf9c41a5599af5fe)
 
@@ -100,13 +100,13 @@ __Issues__
     
     - __when was the issue closed:__ 3 weeks ago
     
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Relativelty active
 
     - __example of a lot of good discussion:__ [Good discussion](https://github.com/MovingBlocks/Terasology/issues/4917)
     
     - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/MovingBlocks/Terasology/issues/5069)
     
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__yes  
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ yes  
 
     - __how many of such issues are there?__ 42
     
@@ -148,29 +148,39 @@ __Pull requests__
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+Not at all.
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+They do.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+Lots of contributors are friendly.
 
 
 
 __Do pull requests get reviewed?__
-
+They do.
 
 
 __Do maintainers thank people for their contributions?__
-
+They thank people and give compliments.
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+Anti-decomponent system.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+There are minimum system requirements.<br>
+System (OS): Windows, MacOS, Linux (64 bit)<br>
+
+Processor (CPU): dual-core CPU
+<br>
+Memory (RAM): 2 GB
+<br>
+Storage (HDD/SSD): 1 GB
+<br>
+Graphics (GPU): Intel HD Graphics (Gen 7) or GeForce 8xxx series (or higher) or Radeon HD 2000 series (or higher) with OpenGL 3.3

@@ -39,26 +39,26 @@ __Other communication channels:__ N/A
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [CC-BY-4.0](https://github.com/30-seconds/30-seconds-web/blob/master/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ It is not OSI approved but that is because the contributions are not considered software. The CC license is open source.
 
-__Programming Language:__ 
+__Programming Language:__ Javascript
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/30-seconds/30-seconds-web/blob/master/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
+__Are the contributing instructions clear?__ Yes, it is short and concise.
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/30-seconds/30-seconds-web/blob/master/CODE_OF_CONDUCT.md)
+
+__URL for instructions for users to download and install the package:__ The instructions for each repository are different and some repositories do not have instruction for installation. The instructions simply redirect to the website. 
 
 
-__Number of contributors:__ xxx contributors
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, they are clear fairly easy if you have background in code, but you could get confused if you were new to coding.
+
+
+__Number of contributors:__ 264 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
