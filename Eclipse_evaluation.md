@@ -27,7 +27,7 @@ __How easy was it to find information about contributing on the website?__ It is
 
 __Contributing instructions:__ [Here](https://www.eclipse.org/contribute/)
 
-__URL for the code repository:__ [Code repository](insert link here) Requires log
+__URL for the code repository:__ [Code repository](https://git.eclipse.org/c/) 
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://bugs.eclipse.org/bugs/buglist.cgi?bug_status=NEW&bug_status=REOPENED&keywords=helpwanted%2C%20&list_id=9664295)
 
@@ -44,13 +44,13 @@ __Other communication channels:__ [Forums](https://www.eclipse.org/forums/)
 
 __License:__ [License](https://www.eclipse.org/legal/termsofuse.php)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
-__Programming Language:__ 
+__Programming Language:__ Java
 
 __URL for contributing instructions:__ [Contributing instructions](https://www.eclipse.org/contribute/)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ Yes
 
 
 __URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
