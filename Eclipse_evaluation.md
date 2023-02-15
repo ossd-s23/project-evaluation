@@ -35,7 +35,7 @@ __Mailing list:__ [Mailing list](https://accounts.eclipse.org/mailing-list)
 
 __Chat channel:__ [Chat channel](https://bugs.eclipse.org/bugs/)
 
-__Other communication channels:__ 
+__Other communication channels:__ [Forums](https://www.eclipse.org/forums/)
 
 
 ---
