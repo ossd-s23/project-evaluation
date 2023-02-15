@@ -174,9 +174,10 @@ Anti-decomponent system.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-There are minimum system requirements.<br>
-System (OS): Windows, MacOS, Linux (64 bit)<br>
-
+There are minimum system requirements.
+<br>
+System (OS): Windows, MacOS, Linux (64 bit)
+<br>
 Processor (CPU): dual-core CPU
 <br>
 Memory (RAM): 2 GB
