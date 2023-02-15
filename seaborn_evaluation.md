@@ -71,37 +71,37 @@ each of them list the link to their latest commit__:
 
 __Number of commits:__ 3114 commits
 
-__Latest commit__ [de] 
+__Latest commit__ [de] February 15th, 2023
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/mwaskom/seaborn/pull/3255/commits/b84cadff3c97b6e4079a0c8265611d6ff2ec7046)
 
-- __who made that commit:__ 
+- __who made that commit:__ mwaskom
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...) Not necessarily a bug, but rather an update to the barplot functionality. It seems he improved the infrastructure for some visualizations, and is applying the new infrastructure to barplots. 
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [101 Open Issues](https://github.com/mwaskom/seaborn/issues?q=is%3Aopen+is%3Aissue)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/mwaskom/seaborn/issues/3259)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 0 person 
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ February 14th, 2023
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [2146 closed issues](https://github.com/mwaskom/seaborn/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/mwaskom/seaborn/issues/3260)
+    - __how many users discussed the issue:__ 1 person
+    - __when was the issue reported:__ February 15th, 2023
+    - __when was the issue closed:__ February 15th, 2023 (but closed because it was a duplicate)
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Fairly low discussion amounts on the issues (some have mid-single digit comments, some have 1 comment, some have zero comments).
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/mwaskom/seaborn/issues/3107)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/mwaskom/seaborn/issues/2982)
 
 
 
