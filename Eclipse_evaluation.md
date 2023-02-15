@@ -61,7 +61,7 @@ __URL for instructions for users to download and install the package:__ There ar
 __Are these instructions clear? Do you think they would be easy to follow?__ Yes. They provide you with links and pictures and there is a reported problem form. They also tell you what packages to select depending on what type of developer you are etc.
 
 
-__Number of contributors:__ xxx contributors
+__Number of contributors:__ 178 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
