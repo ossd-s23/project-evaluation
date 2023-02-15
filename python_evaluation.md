@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  Seaborn
+__Project Name:__  Python
 
 
 ---
@@ -13,49 +13,58 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Seaborn](https://seaborn.pydata.org/)
+__Project website:__ [Python](https://www.python.org/)
 
 
-__What is the purpose of the project:__ This is a Python package that provides an interface for creating various data visualizations (graphs, charts, etc.)
+__What is the purpose of the project:__  
+The founder, Guido van Rossum, liked many of the features of the ABC language but also found it frustrating to work with. So he decided to make a new language that had a similar syntax to ABC but with access to Amoeba system calls.
 
 
-__How easy was it to find information about contributing on the website?__ On the website itself, information about contributing was a little difficult to find and generally pretty vague. We found their recommended contributions [here](https://seaborn.pydata.org/installing.html) but ultimately, all they recommend is flagging bugs to them. They do outline a few specifications (include runnable code, images of the error, etc.), but outside of that, they do not seem to encouraging contribution in any other way on their website. They also recommend asking general support questions on their [StackOverFlow](https://stackoverflow.com/tags/seaborn), where they claim a larger audience will be able to help.
+__How easy was it to find information about contributing on the website?__ 
+It was pretty easy. We can find the “Contributing” section at the bottom of the page which also links to a “Python Developer’s Guide.”
 
+__Contributing instructions:__ [Python Developer’s Guide](https://devguide.python.org/) 
 
-__Contributing instructions:__ [Here](https://seaborn.pydata.org/installing.html) and [Here](https://github.com/mwaskom/seaborn/blob/master/.github/CONTRIBUTING.md) 
+__URL for the code repository:__ [CPython](https://github.com/python/cpython)
 
-__URL for the code repository:__ [Code repository](https://github.com/mwaskom/seaborn)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/python/cpython/issues)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/mwaskom/seaborn/issues)
+__Mailing list:__ [List of Python’s Mailing Lists](https://www.python.org/community/lists/)
 
-__Mailing list:__ They do not have a mailing list, but they do have a [Twitter account](https://twitter.com/michaelwaskom)
+- [Core Development Discourse Mailing list](https://mail.python.org/mailman3/lists/python-dev.python.org/)
+- [Ideas Mailing List](https://mail.python.org/mailman3/lists/python-ideas.python.org)
+- [Python Help Mailing List](https://mail.python.org/mailman/listinfo/python-help)
+- [Python List Mailing List](https://mail.python.org/mailman/listinfo/python-list)
 
-__Chat channel:__ They do not have a traditional chat channel, but they do have a [discussions board on GitHub](https://github.com/mwaskom/seaborn/discussions)
+__Chat channel:__ 
+Python’s Discord channel is actually [private](https://devguide.python.org/developer-workflow/communication-channels/#discord-private-chat-server), but they also have a Libera chat channel available for discussing Python’s development
 
 __Other communication channels:__ 
-They also recommend asking questions on their [StackOverFlow](https://stackoverflow.com/tags/seaborn)
+[Discourse Forums] (https://discuss.python.org/)
+IRC channel on [Libera.Chat] (https://libera.chat/)
+
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](https://github.com/mwaskom/seaborn/blob/master/LICENSE.md)
+__License:__ [License](insert link here)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
-__Programming Language:__ Python
+__Programming Language:__ 
 
-__URL for contributing instructions:__ [Contributing instructions](https://github.com/mwaskom/seaborn/blob/master/.github/CONTRIBUTING.md)
+__URL for contributing instructions:__ [Contributing instructions](insert link here)
 
-__Are the contributing instructions clear?__ Though they are not super welcoming, the contributions are clear. They clearly outline what types of bugs to report and the correct format (reproducable code, output seen, explanation, and the versions of Seaborn that you are using). Further, they are clear about how to report the bug (add a csv to the issues tracker). They also mention that if you believe a new feature should be added to Seaborn that you should open an issue about it to discuss (but they also explicitly say that they are not focused on novel features). 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines). No Code of Conduct is provided in the repository, but on the GitHub discussions board, it links to GitHub's general community guidelines.
-
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](https://seaborn.pydata.org/installing.html) and also in their [repository](https://github.com/mwaskom/seaborn/blob/master/doc/installing.rst). 
+__Are the contributing instructions clear?__ 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ Yes, these instructions are clear and easy to follow. 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+
+__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
+
+
+__Are these instructions clear? Do you think they would be easy to follow?__ 
 
 
 __Number of contributors:__ xxx contributors
