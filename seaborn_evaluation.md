@@ -22,7 +22,7 @@ __What is the purpose of the project:__ This is a Python package that provides a
 __How easy was it to find information about contributing on the website?__ On the website itself, information about contributing was a little difficult to find and generally pretty vague. We found their recommended contributions [here](https://seaborn.pydata.org/installing.html) but ultimately, all they recommend is flagging bugs to them. They do outline a few specifications (include runnable code, images of the error, etc.), but outside of that, they do not seem to encouraging contribution in any other way on their website. They also recommend asking general support questions on their [StackOverFlow](https://stackoverflow.com/tags/seaborn), where they claim a larger audience will be able to help.
 
 
-__Contributing instructions:__ [Here](https://github.com/mwaskom/seaborn/blob/master/.github/CONTRIBUTING.md) 
+__Contributing instructions:__ [Here](https://seaborn.pydata.org/installing.html) and [Here](https://github.com/mwaskom/seaborn/blob/master/.github/CONTRIBUTING.md) 
 
 __URL for the code repository:__ [Code repository](https://github.com/mwaskom/seaborn)
 
@@ -39,15 +39,15 @@ They also recommend asking questions on their [StackOverFlow](https://stackoverf
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/mwaskom/seaborn/blob/master/LICENSE.md)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
-__Programming Language:__ 
+__Programming Language:__ Python
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/mwaskom/seaborn/blob/master/.github/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
+__Are the contributing instructions clear?__ Though they are not super welcoming, the contributions are clear. They clearly outline what types of bugs to report and the correct format (reproducable code, output seen, explanation, and the versions of Seaborn that you are using). Further, they are clear about how to report the bug (add a csv to the issues tracker). They also mention that if you believe a new feature should be added to Seaborn that you should open an issue about it to discuss (but they also explicitly say that they are not focused on novel features). 
 
 
 __URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
