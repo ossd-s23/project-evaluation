@@ -85,26 +85,26 @@ __Latest commit__ [de]
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [12 Open Issues](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/issues/901)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 6 hours ago
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [269 closed issues](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/issues/892)
+    - __how many users discussed the issue:__ 6 people
+    - __when was the issue reported:__ 4 days ago
+    - __when was the issue closed:__ 2 hours ago
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Very active
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/issues/892)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/issues/743)
 
 
 
@@ -126,25 +126,25 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 5 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/pull/897)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ Yesterday
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/pull/239)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ April 28, 2022
 
 - __how many closed pull requests are there:__ 
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/pull/899)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 1 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  6 hours ago
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 6 hours ago
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
