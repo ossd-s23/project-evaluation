@@ -96,37 +96,39 @@ __Issues__
 
 - __how many open issues are there:__ [6,767 Open Issues](https://github.com/python/cpython/issues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/python/cpython/issues/101936)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 0 person
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 39 minutes ago (2/15/2023)
+
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [55,516 closed issues](https://github.com/python/cpython/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/python/cpython/issues/101935)
+    - __how many users discussed the issue:__ 4 people
+    - __when was the issue reported:__ 3 hours ago (2/15/2023)
+    - __when was the issue closed:__ 3 hours ago (2/15/2023)
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Decent discussion, some questions have a couple comments (1 - 5), but some have no discussion at all
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/python/cpython/issues/101881)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
-
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/python/cpython/issues/101880)
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+     yes, there’s an issue label called [“easy”] (https://github.com/python/cpython/labels/easy) 
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 200 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Yes, some of them
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
-
+    Yes, contains [“docs” label] (https://github.com/python/cpython/labels/docs)
+    
     - __how many of such issues are there?__ 
     
     - __look at a few of them, do you think you could submit a fix?__ 
