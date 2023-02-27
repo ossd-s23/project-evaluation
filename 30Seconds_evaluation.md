@@ -69,60 +69,60 @@ each of them list the link to their latest commit__:
 3. [Stefan Fejes] (234 commits) - [Their Latest Commit](https://github.com/30-seconds/30-seconds-of-code/commit/cb251407947337ea5601e241233d6dedd6535e47)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 5493 commits
 
-__Latest commit__ [de] 
+__Latest commit__ [Committed Last Week - #1917] 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/30-seconds/30-seconds-of-code/pull/1917)
 
-- __who made that commit:__ 
+- __who made that commit:__ Chalarangelo
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...) Site Enhancement (Update)
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [0 Open Issues]([insert link here](https://github.com/30-seconds/30-seconds-of-code/issues))
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created - #1910](https://github.com/30-seconds/30-seconds-of-code/issues/1910)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 2 people
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 23rd October, 2021
     
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [277 closed issues](https://github.com/30-seconds/30-seconds-of-code/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed - #1910](https://github.com/30-seconds/30-seconds-of-code/issues/1910)
+    - __how many users discussed the issue:__ 2 people
+    - __when was the issue reported:__ 23rd October 2021
+    - __when was the issue closed:__ 24th October 2021
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion - 51 Comments](https://github.com/30-seconds/30-seconds-of-code/issues/78)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/30-seconds/30-seconds-of-code/issues/1910)
 
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 35 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Yes, some seem beginner friendly. 
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ Not really many for user specific, but developer specific documentation is there under some labels.
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ To some issues yes. 
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 0 pull requests
 
     - __url for the last pull request created:__ [Last Pull Request created]()
     
