@@ -92,70 +92,71 @@ __Latest commit__:
 
 __Issues__
 
-- __how many open issues are there:__ No statistics found [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [2718 Open Issues](https://issues.apache.org/jira/projects/HADOOP/issues/HADOOP-18470?filter=allopenissues)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [x-ms-client-request-id to have some way that identifies retry of an API.](https://issues.apache.org/jira/projects/HADOOP/issues/HADOOP-18647?filter=allissues&orderby=created+DESC%2C+priority+DESC%2C+updated+DESC)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1 user and 1 robot account ? 
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 9 hours ago
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [13640 closed issues](https://issues.apache.org/jira/projects/HADOOP/issues/HADOOP-18641?filter=doneissues)
+    - __url for the last issue closed:__ [(HADOOP-18647. x-ms-client-request-id to have some way that identifies retry of an API.)
+](https://issues.apache.org/jira/projects/HADOOP/issues/HADOOP-18641?filter=doneissues)
+    - __how many users discussed the issue:__ some bot accounts?
+    - __when was the issue reported:__ 4 days ago
+    - __when was the issue closed:__ 4 days ago
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ really active
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://issues.apache.org/jira/projects/HADOOP/issues/HADOOP-18641?filter=doneissues)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://issues.apache.org/jira/projects/HADOOP/issues/HADOOP-18003?filter=doneissues)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ i don’t think so
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ na
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__  na
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ i don’t think so
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ na
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ na
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 795 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/apache/hadoop/pull/5440)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ [Last Pull Request created](5 hours ago)
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/apache/hadoop/pull/1)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Sep 18, 2014
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 4632 pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/apache/hadoop/pull/5429)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 5 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  5 days ago
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 5 hours ago
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
-
+There is a robot account for commenting on PR requests. Managed by the @apache Hadoop project for Yetus integration. The robot responds fairly quickly. I think they’re keeping the communications inside their mailing list.
 
 
 
@@ -163,32 +164,36 @@ __Pull requests__
 ---
 
 
-## Summary assesment
+## Summary assessment
 __How friendly is this project for beginner contributors?__
 
+They have a very detailed contributing guide, but I don’t think people with relatively few software development experiences can feel comfortable navigating through them. 
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
 
+We can’t see. The communications are mostly in the mailing lists. Still, Hadoop is a very very active project. 
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-
-
+It’s hard to determine this because most of the issues we see are worked on by one person and we haven’t joined the mailing lists which we presume have more communication.  
 
 __Do pull requests get reviewed?__
 
-
+It should be. I still don’t exactly understand the workflow. Maybe they do most reviews on the mailing list? 
+Some issues have reviewers like this one: https://github.com/apache/hadoop/pull/5397
 
 __Do maintainers thank people for their contributions?__
 
-
+We can’t see the communications. 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
-
+Distributed systems. I feel that the project is also fairly low-level, so contributors needs to be really interested in the project. 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
+We didn’t understand it perfectly. The documentation is here: How to Contribute to Apache Hadoop
 
