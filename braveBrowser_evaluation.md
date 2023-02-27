@@ -22,11 +22,11 @@ __What is the purpose of the project:__ An open source browser focused on privac
 __How easy was it to find information about contributing on the website?__ We found two possible options to find information about contributing. First, clicking Community in the footer led to a page that had a Contributing section. Second, clicking Github in the footer led to the Github repository and you could search for brave-browser to find the Contributing.MD file.
 
 
-__Contributing instructions:__ N/A
+__Contributing instructions:__ [Contributing.md](https://github.com/brave/brave-browser/blob/master/CONTRIBUTING.md)
 
-__URL for the code repository:__ N/A
+__URL for the code repository:__ [Github](https://github.com/brave/brave-browser)
 
-__Bug/Issue tracker link:__ N/A
+__Bug/Issue tracker link:__ [Issues](https://github.com/brave/brave-browser/issues)
 
 __Mailing list:__ N/A
 
