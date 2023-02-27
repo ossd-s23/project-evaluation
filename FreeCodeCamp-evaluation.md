@@ -152,6 +152,7 @@ __Pull requests__
 
 
 ## Summary assesment
+
 __How friendly is this project for beginner contributors?__
 
 This project is very beginner friendly, with a lot of issues open only to first timers. Meanwhile, the instruction of contributions are super clear on the website.
