@@ -76,11 +76,11 @@ __Number of commits:__ xxxx commits
 
 __Latest commit__ [de] 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [fix(deps): bump spotbugs-maven-plugin in /eclipse-platform-parent ](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/commit/efe2e6c63ad53f2cde38e584ec490501a8065b65)
 
-- __who made that commit:__ 
+- __who made that commit:__ dependabot
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ (switched the version of a plugin needed for a file)
 
 
 __Issues__
