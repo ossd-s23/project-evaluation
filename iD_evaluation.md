@@ -107,17 +107,17 @@ __Issues__
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Yes
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 1 issue
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Possibly after getting more familiar with the codebase
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ Currently 1
+    - __how many of such issues are there?__ 8 issues
     
-    - __look at a few of them, do you think you could submit a fix?__ Possibly after getting more familiar with the codebase
+    - __look at a few of them, do you think you could submit a fix?__ Perhaps
 
 
 
@@ -141,7 +141,7 @@ __Pull requests__
     
     - __when was the pull request made:__  Jan 20 2023
     
-    - __when was the pull request closed:__ feb 25 2023
+    - __when was the pull request closed:__ Feb 25 2023
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ Sometimes. Some PRs get ignored
