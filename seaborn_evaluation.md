@@ -105,46 +105,46 @@ __Issues__
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ No, the tags do not indicate difficulty level at all. 
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 0 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ They do not exist.
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes.
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 5 open issues under the docs tag, and 95 closed issues under this tag.
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ I think some are very founder-specific, as in the founder of the repo would be the only suitable person to address the issue. That being said, there are about 2 issues that we see we could feasibly implement a fix (such as creating a popup that displays an example chart over each function listed on the website).
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 12 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/mwaskom/seaborn/pull/3279)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ Last Pull Request created 12 hours ago.
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/mwaskom/seaborn/pull/897)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Oldest Pull Requested created on March 30th, 2016.
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 964 closed pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/mwaskom/seaborn/pull/3278)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 2 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__ February 19th, 2023
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ February 26th, 2023
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes, he is pretty quick at responding.
 
 
 
@@ -156,29 +156,33 @@ __Pull requests__
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
+Beginning contributions are fairly limited. Guides for contributions strongly suggest reporting bugs, and mostly deter individuals from fixing bug themselves. Most of the closed pull requests are small fixes to documentation, typos, adding keywords, etc. So, while those are suitable for beginners, I don't think they truly involve beginners in the process. Overall, I would say the project is not beginner friendly.
 
 
-
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues?__ The repo founder responds very quickly, however, he does not respond in the most welcoming way. He is constructive and definitely opinionated, but I think he means well and is trying to address issues relatively respectfully. Here is an example of an issue where he responded to a question kind of snarkily, but still with good insight -- [Issue 2059](https://github.com/mwaskom/seaborn/issues/2059).
 
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-
+The only dedicated discussion forum is the Discussions board on GitHub. It is not super active, but people are generally nice and helpful. That being said, many of the questions remain unanswered. 
 
 
 __Do pull requests get reviewed?__
 
+Yes, Mark (founder of the repo) reviews the pull requests fairly often it seems.
 
 
 __Do maintainers thank people for their contributions?__
 
+Yes, Mark warmly thanks the individuals whose pull requests he closes. 
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
+The repo is 100% python, so definitely a familiarity with that language is needed. That being said, even though the members of this group are familiar with Python, the fixes that end up getting merged are a bit out of our understanding level.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
 
+No special hardware or software requirements needed to contribute.
