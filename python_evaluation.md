@@ -173,25 +173,26 @@ The community is very friendly, in the sense that there are a lot of communicati
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Yes, although most issues lack discussion. When there are questions, they respond helpfully.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+Most contributors are friendly in the discussions, like in their [discourse forum](https://discuss.python.org/c/core-dev/23). However, they aren’t overly friendly or nice, but more direct in answering questions or concerns.
 
 
 
 __Do pull requests get reviewed?__
-
+Yes, all pull requests need to be reviewed and marked approved once the review is done.
 
 
 __Do maintainers thank people for their contributions?__
-
+No, but it might be because of the huge amount of contributions they have to consider rather than unfriendliness. 
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+Not in general, as there are documentation and typo fixing issues. However, familiarity with Python or C language is recommended.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+No, as long as you have the Python / C language available on your computer for testing / fixing code issues. If you want to contribute through documentation fixes, then no special hardware / software is required.
 
