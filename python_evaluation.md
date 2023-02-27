@@ -128,8 +128,8 @@ __Issues__
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
     Yes, contains [“docs” label] (https://github.com/python/cpython/labels/docs)
-    
-    - __how many of such issues are there?__ 
+
+    - __how many of such issues are there?__ 1,191 issues
     
     - __look at a few of them, do you think you could submit a fix?__ 
 
@@ -137,30 +137,29 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 1,484 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/python/cpython/pull/102303)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ [2 hours ago](https://github.com/python/cpython/pull/102303)
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/python/cpython/pull/1)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Feb 10, 2017
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 37,824 pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request created](https://github.com/python/cpython/pull/102299)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 1 person commented / discussed the pull request
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  3 hours ago
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 3 hours ago
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
-
-
+    Yes, pretty fast (usually within the hour)
 
 
 
@@ -170,7 +169,7 @@ __Pull requests__
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
-
+The community is very friendly, in the sense that there are a lot of communication channels and extensive documentation regarding how to contribute and where to find resources. However, the issues themselves can be quite complicated, unless you’re looking only at the “easy” labeled issues or documentation fixes.
 
 
 __Do the maintainers respond helpfully to questions in issues?__
