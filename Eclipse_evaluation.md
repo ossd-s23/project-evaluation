@@ -67,12 +67,12 @@ __Number of contributors:__ 282 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. [DavidWilliams] (2972 commits) - [Their Latest Commit](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/commit/e9449115e593b545d8e94b778255f4919a790b67)
+2. [eclipse-releng-bot] (1381 commits) - [Their Latest Commit](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/commit/1f30cc1b8a4e5e6ce43488e6441f6a67eb24ec84)
+3. [sravanlakkimsetti] (1024 commits) - [Their Latest Commit](https://github.com/eclipse-platform/eclipse.platform.releng.aggregator/commit/05e57115d8ac0847c160a9ed499493b271b5fe21)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 9949 commits
 
 __Latest commit__ [de] 
 
