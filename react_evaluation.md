@@ -41,9 +41,9 @@ __Other communication channels:__ No other communication channels for developers
 
 __License:__ [License](https://github.com/facebook/react/blob/main/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license: MIT License
+__Is it [OSI approved]__(https://opensource.org/licenses/alphabetical) license: MIT License
 
-__Programming Language: JavaScript
+__Programming Language__: JavaScript
 
 __URL for contributing instructions:__ [Contributing instructions](https://github.com/facebook/react/blob/main/CONTRIBUTING.md)
 
