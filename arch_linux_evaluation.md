@@ -13,7 +13,7 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](archlinux.org)
+__Project website:__ [Website](www.archlinux.org)
 
 
 __What is the purpose of the project:__ To create a user centric linux distribution--it aims to provide an operating system experience which provides simplicity, modernity, pragmatism, user centrality, and versatility. It provides a minimal base system and a rolling release packaging system.
@@ -103,25 +103,27 @@ __Issues__
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ Does not look like there are any
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ N/A
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ N/A
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ There are guidelines for contributing to the Arch Linux wiki, but not necessarily issues on the bug tracker labeled as related to code documentation or wiki documentation.
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ N/A
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Yes, using
+        Wiki tools to merge pages, make edits, etc. is feasible
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ Can't tell clearly due to structure
+    of the project (many distributed repositories)
 
     - __url for the last pull request created:__ [Last Pull Request created]()
     
@@ -142,7 +144,8 @@ __Pull requests__
     - __when was the pull request closed:__ 
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Yes,
+    quick responses relative to importance of the PR.
 
 
 
@@ -152,32 +155,35 @@ __Pull requests__
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ Depends on prior
+knowledge of similar projects and also which aspect of the project the
+contributor is contributing to (i.e. wiki, bug fixes, maintaining packages,
+etc.)
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do the maintainers respond helpfully to questions in issues?__ Yes!
 
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Extraordinarily friendly
 
 
 
 
-__Do pull requests get reviewed?__
+__Do pull requests get reviewed?__ Yes, pull requests get reviewed
 
 
 
-__Do maintainers thank people for their contributions?__
+__Do maintainers thank people for their contributions?__ Sometimes?
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
+__Are there special skills required to contribute to the project? If so, what are they?__ Depending on the repository, a variety of different skills, usually related to Linux systems programming
 
 
 
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
+__Are there any special hardware/software requirements to be able to contribute
+to the project? If so, what are they?__ No
 
