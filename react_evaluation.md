@@ -69,7 +69,7 @@ each of them list the link to their latest commit__:
 3. [sebmarkbage] (917 commits) - [Treat displayName as undefined](https://github.com/facebook/react/pull/26148)
 
 
-__Number of commits: 15,540 commits
+__Number of commits__: 15,540 commits
 
 __Latest commit__ 
 
@@ -115,7 +115,7 @@ __Issues__
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ no
+    - __how many of such issues are there?__ none
     
     - __look at a few of them, do you think you could submit a fix?__ no
 
@@ -153,23 +153,22 @@ __Pull requests__
 ---
 
 
-## Summary assesment
+## Summary assessment
 __How friendly is this project for beginner contributors?__
-Not so friendly
+It doesn't seem to be that friendly considering the lack of starter bugs and the complexity of the codebase.
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Due to the large number, it seems like a lot of issues don't get responsese for a while unless they are a top priority fix. Most responses are from bots that enforce certain rules and run tests, but the human responses are generally very helpful.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
 
 
-
 __Do pull requests get reviewed?__
-
+Yes, the core team reviews pull requests and either merges, request changes, or closes with and explanation.
 
 
 __Do maintainers thank people for their contributions?__
@@ -177,8 +176,8 @@ __Do maintainers thank people for their contributions?__
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+A deep understanding of Javascript as well as React's functionality are definitely necessary. A good understanding of web browsers' architecture/functionality would be helpful as well.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
+They require that you have Yarn, Node, JDK, gcc or another compiler, and git installed.
