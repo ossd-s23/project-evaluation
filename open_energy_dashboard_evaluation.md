@@ -87,101 +87,77 @@ __Issues:__
 - __How many open issues are there:__ [68 Open Issues](https://github.com/OpenEnergyDashboard/OED/issues?q=is%3Aopen+is%3Aissue).
 
     - __URL for the last issue created:__ [Last issue created](https://github.com/OpenEnergyDashboard/OED/issues/871).
-
     - __How many users discuss the issue:__ 2 people.
-    
     - __When was the issue reported:__ Feb 20, 2023, 5:55 PM (EST).
     
----
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __How many closed issues are there:__ [285 closed issues](https://github.com/OpenEnergyDashboard/OED/issues?q=is%3Aissue+is%3Aclosed)
+    - __URL for the last issue closed:__ [Last issue closed](https://github.com/OpenEnergyDashboard/OED/issues/850).
+    - __How many users discussed the issue:__ 2 people.
+    - __When was the issue reported:__ Feb 3, 2023, 5:09 PM (EST).
+    - __When was the issue closed:__ Feb 5, 2023, 10:57 AM (EST).
 
-- __how active is the discussion on the issues:__ 
+- __How active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
-    
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __Example of a lot of good discussion:__ [Good discussion](https://github.com/OpenEnergyDashboard/OED/issues/141).
+    - __Example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/OpenEnergyDashboard/OED/issues/160).
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __Are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
 
-    - __how many of such issues are there?__ xxx issues
-    
-    - __look at a few of them, do they look beginner friendly?__ 
-
-
-
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
-
-    - __how many of such issues are there?__ 
-    
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __How many of such issues are there?__ 11 open issues and 55 closed issues marked with the label [`i-good-first-issue`](https://github.com/OpenEnergyDashboard/OED/labels/i-good-first-issue).
+    - __Look at a few of them, do they look beginner friendly?__ Indeed.
 
 
 
-__Pull requests__
+- __Are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ No.
 
-- __how many open pull requests are there:__ xx pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
-    
-    - __when was the last pull request made:__ [Last Pull Request created]()
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
-    
-    - __when was the oldest pull request made:__ 
+__Pull requests:__
 
-- __how many closed pull requests are there:__ 
+- __How many open pull requests are there:__ 5 pull requests.
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
-    
-    - __how many users discussed the pull request:__ xx users
-    
-    - __when was the pull request made:__  
-    
-    - __when was the pull request closed:__ 
+    - __URL for the last pull request created:__ [Last Pull Request created](https://github.com/OpenEnergyDashboard/OED/pull/866).
+    - __When was the last pull request made:__ Feb 19, 2023, 12:43 AM (EST).
+    - __URL for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/OpenEnergyDashboard/OED/pull/779).
+    - __When was the oldest pull request made:__ May 15, 2023, 10:45 PM (EST).
+
+- __How many closed pull requests are there:__ 
+
+    - __URL for the last pull request closed:__ [Last Pull Request created](https://github.com/OpenEnergyDashboard/OED/pull/872).
+    - __How many users discussed the pull request:__ 2 users.
+    - __When was the pull request made:__ Nov 1, 2016, 11:40 AM (EST).
+    - __When was the pull request closed:__ Nov 1, 2016, 3:12 PM (EST).
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
-
-
-
+- __Do maintainers respond quickly to pull requests when they are opened?__ Yes.
 
 
 ---
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__
+__How friendly is this project for beginner contributors?__ This project is pretty friendly for beginner contributors. The issues marked with the label `i-good-first-issue` are indeed some good first issues that require modifying only certain code files but not looking through the whole structure of the project.
+
+
+__Do the maintainers respond helpfully to questions in issues?__ Most of the issues do not involve a lot of discussions, but the maintainers do give meaningful response when questions exist.
 
 
 
-
-__Do the maintainers respond helpfully to questions in issues?__
-
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes.
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Do pull requests get reviewed?__ Yes.
 
 
+__Do maintainers thank people for their contributions?__ Yes.
 
 
-__Do pull requests get reviewed?__
-
-
-
-__Do maintainers thank people for their contributions?__
+__Are there special skills required to contribute to the project? If so, what are they?__ No. OED is an educationally-based open source project.
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
-
-
-
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ No really.
 
