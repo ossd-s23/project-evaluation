@@ -28,97 +28,96 @@ __URL for the code repository:__ [Code repository](https://github.com/mindsdb/mi
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/mindsdb/mindsdb/issues)
 
-__Mailing list:__ hello@mindsdb.com
+__Mailing list:__ [Mailing List](https://mindsdb.com/newsletter?utm_medium=community&utm_source=github&utm_campaign=mindsdb%20repo)
 
 __Chat channel:__ [Slack](https://mindsdbcommunity.slack.com/signup#/domain-signup)
 
-__Other communication channels:__ [Forum] (https://github.com/mindsdb/mindsdb/discussions/)
-                                  [Community Call] (https://mindsdb.com/community-call)
+__Other communication channels:__ [Forum](https://github.com/mindsdb/mindsdb/discussions/), [Community Call](https://mindsdb.com/community-call)
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/mindsdb/mindsdb/blob/staging/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ yes
 
-__Programming Language:__ 
+__Programming Language:__ python
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/mindsdb/mindsdb/blob/staging/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
+__Are the contributing instructions clear?__ yes
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/mindsdb/mindsdb/blob/staging/CODE_OF_CONDUCT.md)
+
+__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](https://github.com/mindsdb/mindsdb#installation). 
 
 
-__Number of contributors:__ xxx contributors
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes, it's very simple.
+
+
+__Number of contributors:__ 289 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-2. [Name] (xxx commits) - [Their Latest Commit](insert link here)
-3. [Name] (xxx commits) - [Their Latest Commit](insert link here)
+1. StpMax (2017 commits) - [Their Latest Commit](https://github.com/mindsdb/mindsdb/commit/48e3b8cdc853a8e424554ecf697f2dfcc46a241f)
+2. George3d6 (1678 commits) - [Their Latest Commit](https://github.com/mindsdb/mindsdb/commit/a2afbbddc31a9837ece89b050a309a07df197c5d)
+3. ZoranPandovski (516 commits) - [Their Latest Commit](https://github.com/mindsdb/mindsdb/commit/d531de4aa0b4846d2466d77497f792c941120081)
 
 
-__Number of commits:__ xxxx commits
+__Number of commits:__ 9578 commits
 
-__Latest commit__ [de] 
+__Latest commit__ 
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ [Latest commit](https://github.com/mindsdb/mindsdb/commit/1aacf94d471bced640db081df73fb066c306c6e2)
 
-- __who made that commit:__ 
+- __who made that commit:__ mindsdbadmin
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ signed CLA
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ [345 Open Issues](https://github.com/mindsdb/mindsdb/issues?q=is%3Aopen+is%3Aissue)
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://github.com/mindsdb/mindsdb/issues/4721)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 3 people
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ 4 hours ago
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
-    - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+- __how many closed issues are there:__ [1692 closed issues](https://github.com/mindsdb/mindsdb/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/mindsdb/mindsdb/issues/4717)
+    - __how many users discussed the issue:__ 3 people
+    - __when was the issue reported:__ 14 hours ago
+    - __when was the issue closed:__ 3 hours ago
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/mindsdb/mindsdb/issues/3090)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/mindsdb/mindsdb/issues/2283)
 
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ 87 issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ yes
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 42 issues
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ yes
 
 
 
