@@ -123,28 +123,28 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 39 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/mindsdb/mindsdb/pull/4718)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ 12 hours ago
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/mindsdb/mindsdb/pull/2582)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ 07/27/2022
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 2438 pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/mindsdb/mindsdb/pull/4715)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 2 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  15 hours ago
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 15 hours ago
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ yes
 
 
 
@@ -155,29 +155,29 @@ __Pull requests__
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
+This project is very friendly for beginners. From the website, you can tell that making their project open source is one of their important values. It strongly encourages people to contribute and there even are issues dedicated only for first-timers.
+
+
+
+__Do the maintainers respond helpfully to questions in issues?__ yes
+
+
+
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ yes
 
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__
+__Do pull requests get reviewed?__ yes
 
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Do maintainers thank people for their contributions?__ yes
 
 
 
-
-__Do pull requests get reviewed?__
-
-
-
-__Do maintainers thank people for their contributions?__
+__Are there special skills required to contribute to the project? If so, what are they?__ Knowing well about machine learning is important to understand how it works.
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
-
-
-
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ The project is written entirely in Python and works with SQL so knowing about those two is necessary.
