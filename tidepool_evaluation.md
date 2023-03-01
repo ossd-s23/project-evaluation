@@ -28,7 +28,7 @@ __URL for the code repository:__ All of their source code is their [GitHub Proje
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/tidepool-org/blip/issues)
 
-__Mailing list:__ [Mailing list](info@tidepool.org)
+__Mailing list:__ info@tidepool.org
 
 __Chat channel:__ [Slack](tidepoolorg.slack.com)
 
