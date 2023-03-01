@@ -28,12 +28,12 @@ __URL for the code repository:__ [Code repository](https://github.com/mindsdb/mi
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/mindsdb/mindsdb/issues)
 
-__Mailing list:__ [Mailing list](hello@mindsdb.com)
+__Mailing list:__ hello@mindsdb.com
 
 __Chat channel:__ [Slack](https://mindsdbcommunity.slack.com/signup#/domain-signup)
 
 __Other communication channels:__ [Forum] (https://github.com/mindsdb/mindsdb/discussions/)
-                                  [Community Call](https://mindsdb.com/community-call)
+                                  [Community Call] (https://mindsdb.com/community-call)
 
 
 ---
