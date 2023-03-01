@@ -19,7 +19,7 @@ __Project website:__ [Website](https://fontawesome.com/)
 __What is the purpose of the project:__ Create a digital icon library and toolkit for designers, developers, and content creators to use
 
 
-__How easy was it to find information about contributing on the website?__There's not much information on the website itself, but navigating to its Github repo--which contains a CONTRIBUTING.md file--from the website is pretty simple.
+__How easy was it to find information about contributing on the website?__ There's not much information on the website itself, but navigating to its Github repo--which contains a CONTRIBUTING.md file--from the website is pretty simple.
 
 
 __Contributing instructions:__ [Here](https://github.com/FortAwesome/Font-Awesome/blob/6.x/CONTRIBUTING.md) 
