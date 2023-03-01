@@ -70,7 +70,7 @@ each of them list the link to their latest commit__:
 
 __Number of commits:__ 65103 commits
 
-__Latest commit__ [de] 
+__Latest commit__ 8 hours ago (current date is: 2023/3/1)
 
 - __link to the commit:__ [Latest commit](https://github.com/languagetool-org/languagetool/commit/3b272a59a2398cefeb7adf4cdd9232d488fb9834)
 
