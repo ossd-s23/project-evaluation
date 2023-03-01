@@ -13,52 +13,52 @@ In the following section you should only enter the information that you
 found on the project website. Some of the answers will be impossible to find, others
 may be very hard to find. Do not _google_ for answers.
 
-__Project website:__ [Website](insert link here)
+__Project website:__ [Terrastories](https://terrastories.app/)
 
 
-__What is the purpose of the project:__ 
+__What is the purpose of the project:__  Terrastories is a free and open-source application designed for communities to map, protect, and share place-based stories
 
 
-__How easy was it to find information about contributing on the website?__ 
+__How easy was it to find information about contributing on the website?__ Very easy, there is a link under Developer Community section.
 
 
-__Contributing instructions:__ [Here](insert link here) 
+__Contributing instructions:__ [Contribute](https://terrastories.app/contribute/) 
 
-__URL for the code repository:__ [Code repository](insert link here)
+__URL for the code repository:__ [Code repository](https://github.com/Terrastories/terrastories)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/Terrastories/terrastories/issues)
 
-__Mailing list:__ [Mailing list](insert link here)
+__Mailing list:__ Not found yet
 
-__Chat channel:__ [Chat channel](insert link here)
+__Chat channel:__ [Slack channel](https://t.co/kUtI3lnpW1) But it seems there is something wrong with this link
 
-__Other communication channels:__ 
+__Other communication channels:__ [Twitter](https://twitter.com/TerrastoriesApp)
 
 
 ---
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/Terrastories/terrastories/blob/master/LICENSE)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes
 
-__Programming Language:__ 
+__Programming Language:__ Ruby, HTML, Javascript, SCSS, Shell, Dockerfile
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/Terrastories/terrastories/blob/master/CONTRIBUTING.md)
 
-__Are the contributing instructions clear?__ 
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
-
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
+__Are the contributing instructions clear?__ Yes
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ 
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/Terrastories/terrastories/blob/master/documentation/CODE_OF_CONDUCT.md)
+
+__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](https://terrastories.app/try-terrastories/), also introduced in [README.md](https://github.com/Terrastories/terrastories), and specific [setup](https://github.com/Terrastories/terrastories/blob/master/documentation/SETUP.md)
 
 
-__Number of contributors:__ xxx contributors
+__Are these instructions clear? Do you think they would be easy to follow?__ Yes
+
+
+__Number of contributors:__ 89 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
