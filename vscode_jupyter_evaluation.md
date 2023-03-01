@@ -37,7 +37,7 @@ __Other communication channels:__ [Stack Overflow questions](https://stackoverfl
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [LICENSE](https://github.com/microsoft/vscode-jupyter/blob/main/LICENSE).
+__License:__ [MIT License](https://github.com/microsoft/vscode-jupyter/blob/main/LICENSE).
 
 __Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ Yes.
 
