@@ -172,12 +172,12 @@ __Do pull requests get reviewed?__
 Yes
 
 
-__Do maintainers thank people for their contributions?__
+__Do maintainers thank people for their contributions?__ Yes
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
+__Are there special skills required to contribute to the project? If so, what are they?__ Knowledge of the used languate, RUBY, JavaScript, etc. Knowledge about operating systems.
 
 
 
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ Having Docker on one's computer is a must
