@@ -106,74 +106,73 @@ __Issues:__
     - __Look at a few of them, do they look beginner friendly?__ Emm, not really. I do think there are some other issues that beginners can work on, but not specifically any of the issues marked under this label.
 
 
+
+
+- __Are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+
+    - __How many of such issues are there?__ 4 open issues and 28 closed issues with the label [`documentation`](https://github.com/microsoft/vscode-jupyter/labels/documentation).
+    - __Look at a few of them, do you think you could submit a fix?__ All of the open issues in this category have already been assigned to somebody. Regardless, it is indeed possible to submit a fix.
+
+
+
+__Pull requests:__
+
+- __How many open pull requests are there:__ 36 pull requests.
+
+    - __URL for the last pull request created:__ [Last Pull Request created](https://github.com/microsoft/vscode-jupyter/pull/12971).
+    
+    - __When was the last pull request made:__ Feb 28, 2023, 10:44 PM (EST).
+
+    - __URL for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/microsoft/vscode-jupyter/pull/9854).
+    
+    - __When was the oldest pull request made:__ May 1, 2022, 2:11 PM (EST).
+
+- __How many closed pull requests are there:__ 
+
+    - __URL for the last pull request closed:__ [Last Pull Request closed](https://github.com/microsoft/vscode-jupyter/pull/12968)
+    
+    - __How many users discussed the pull request:__ 2 users.
+    
+    - __When was the pull request made:__  Feb 28, 2023, 9:49 PM (EST).
+    
+    - __When was the pull request closed:__ Mar 1, 2023, 3:27 AM (EST).
+    
+
+- __Do maintainers respond quickly to pull requests when they are opened?__ Yes.
+
+
+
+
+
 ---
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ 
-    
-    - __look at a few of them, do you think you could submit a fix?__ 
+## Summary assessment
 
+__How friendly is this project for beginner contributors?__ There are not many issues that are clearly for beginners, but one can ask questions to get a general idea, which will make things easier. Also, the documentation as to how to contribute is pretty clear, so I do think even beginner contributors will be able to make some contributions to this project.
 
 
-__Pull requests__
+__Do the maintainers respond helpfully to questions in issues?__ Yes. The maintainers give suggestive information as to how to look into the issue, try different versions and environments, etc. One can even ask for a code pointer to where the problem may lie in.
 
-- __how many open pull requests are there:__ xx pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
-    
-    - __when was the last pull request made:__ [Last Pull Request created]()
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes, they use friendly and welcoming language and provide helpful information.
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
-    
-    - __when was the oldest pull request made:__ 
 
-- __how many closed pull requests are there:__ 
+__Do pull requests get reviewed?__ Yes, mostly within a week.
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
-    
-    - __how many users discussed the pull request:__ xx users
-    
-    - __when was the pull request made:__  
-    
-    - __when was the pull request closed:__ 
-    
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+__Do maintainers thank people for their contributions?__ Yes, they always do so.
 
 
 
-
-
----
-
-
-## Summary assesment
-__How friendly is this project for beginner contributors?__
+__Are there special skills required to contribute to the project? If so, what are they?__ If there really is any, I would say the ability to read through the documentations. Though the project is built mainly using TypeScript, there are indeed issues that only require Python skills to make a fix, so I think language is not a big problem.
 
 
 
-
-__Do the maintainers respond helpfully to questions in issues?__
-
-
-
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
-
-
-
-__Do pull requests get reviewed?__
-
-
-
-__Do maintainers thank people for their contributions?__
-
-
-
-__Are there special skills required to contribute to the project? If so, what are they?__
-
-
-
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ One would need [Node.js](https://nodejs.org/) 16.14.2, [npm](https://www.npmjs.com/) 8.15.1, [Python](https://www.python.org/) 3.6 or later, [Visual Studio Code](https://code.visualstudio.com/), along with the following extensions in Visual Studio Code:
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [Python Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [TypeScript + Webpack Problem Matchers](https://marketplace.visualstudio.com/items?itemName=amodio.tsl-problem-matcher)
 
