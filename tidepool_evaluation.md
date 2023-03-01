@@ -28,7 +28,7 @@ __URL for the code repository:__ All of their source code is their [GitHub Proje
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/tidepool-org/blip/issues)
 
-__Mailing list:__ [Mailing list](info@tidepool.org)
+__Mailing list:__ There was no mailing list, but emails can be sent to info@tidepool.org
 
 __Chat channel:__ [Slack](tidepoolorg.slack.com)
 
@@ -64,9 +64,9 @@ __Number of contributors:__ 38 contributors
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [clintonium-119] (2980 commits) - [Their Latest Commit](https://github.com/tidepool-org/blip/commit/fa62673035278fb6aa98b7d97e95a0f7d37bedff)
-2. [jebeck] (792 commits) - [Their Latest Commit](https://github.com/tidepool-org/blip/commit/fe3ad29e27f2f7b3c5859bb6facc20bcf3880774)
-3. [krystophv] (571 commits) - [Their Latest Commit](https://github.com/tidepool-org/blip/commit/d712680564a8feff5be321cf71b7cc3ae3a13947)
+1. clintonium-119 (2980 commits) - [Their Latest Commit](https://github.com/tidepool-org/blip/commit/fa62673035278fb6aa98b7d97e95a0f7d37bedff)
+2. jebeck (792 commits) - [Their Latest Commit](https://github.com/tidepool-org/blip/commit/fe3ad29e27f2f7b3c5859bb6facc20bcf3880774)
+3. krystophv (571 commits) - [Their Latest Commit](https://github.com/tidepool-org/blip/commit/d712680564a8feff5be321cf71b7cc3ae3a13947)
 
 __Number of commits:__ 8326 commits
 
@@ -96,7 +96,7 @@ __Issues__
     - __when was the issue reported:__ 05/31/2020
     - __when was the issue closed:__ 05/31/2020
 
-- __how active is the discussion on the issues:__ There's only one other comment besides the report, but the issue was solved in another branch so it closed very quickly.
+- __how active is the discussion on the issues:__ 
 
     - __example of a lot of good discussion:__ [Good discussion](https://github.com/tidepool-org/blip/issues/328)
     
@@ -104,7 +104,7 @@ __Issues__
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ no
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
 
     - __how many of such issues are there?__ 0 issue
     
@@ -112,7 +112,7 @@ __Issues__
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ no
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
     - __how many of such issues are there?__ none
     
