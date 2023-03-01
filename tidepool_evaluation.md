@@ -24,7 +24,7 @@ __How easy was it to find information about contributing on the website?__ not v
 
 __Contributing instructions:__ [Here](https://developer.tidepool.org/) 
 
-__URL for the code repository:__ All of their source code is their [GitHub Project](https://github.com/tidepool-org). Some of more commonly used ones are [Tidepool Uploader](https://github.com/tidepool-org/uploader), [Visualization Library](https://github.com/tidepool-org/viz), etc. This evaluation will look specifically into the [Blip](https://github.com/tidepool-org/blip) which is a most starred repository.
+__URL for the code repository:__ All of their source code is their [GitHub Project](https://github.com/tidepool-org). Some of more commonly used ones are [Tidepool Uploader](https://github.com/tidepool-org/uploader), [Visualization Library](https://github.com/tidepool-org/viz), etc. This evaluation will look specifically into [Blip](https://github.com/tidepool-org/blip) which is a most starred repository.
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/tidepool-org/blip/issues)
 
@@ -66,8 +66,7 @@ each of them list the link to their latest commit__:
 
 1. [clintonium-119] (2980 commits) - [Their Latest Commit](https://github.com/tidepool-org/blip/commit/fa62673035278fb6aa98b7d97e95a0f7d37bedff)
 2. [jebeck] (792 commits) - [Their Latest Commit](https://github.com/tidepool-org/blip/commit/fe3ad29e27f2f7b3c5859bb6facc20bcf3880774)
-3. [krystophv] (571 commits) - [Their Latest Commit]([insert link here](https://github.com/tidepool-org/blip/commit/d712680564a8feff5be321cf71b7cc3ae3a13947))
-
+3. [krystophv] (571 commits) - [Their Latest Commit](https://github.com/tidepool-org/blip/commit/d712680564a8feff5be321cf71b7cc3ae3a13947)
 
 __Number of commits:__ 8326 commits
 
