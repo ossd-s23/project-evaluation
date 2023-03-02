@@ -154,31 +154,24 @@ __Pull requests__
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__ 
+__How friendly is this project for beginner contributors?__ This project is pretty friendly towards beginners, as there are several issues labelled "good first issues," the contribution document is somewhat detailed, and there are also instructions for how to install / run the package. However, there aren't as many resources on their website or communication channels available, or specific examples of the contributions they're looking for.
+
+
+__Do the maintainers respond helpfully to questions in issues?__ Yes, usually if there's a question, people will respond but I don't think there's a ton of discussion in general.
 
 
 
-
-__Do the maintainers respond helpfully to questions in issues?__
-
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Couldn't tell for discussion forums or chats, since I couldn't find any, but people are pretty nice in the issues.
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
+__Do pull requests get reviewed?__ Yes, usually within a day or two.
 
 
-
-
-__Do pull requests get reviewed?__
+__Do maintainers thank people for their contributions?__ Yes.
 
 
 
-__Do maintainers thank people for their contributions?__
+__Are there special skills required to contribute to the project? If so, what are they?__ I think knowing Typescript is important, as most of the repo is written in that language, as well as the file structure of an app and how the different files integrate. Basic understanding how to run yarn and starting the app on a specific os is also helpful, although there are a couple lines of instructions for that in the README file.
 
 
-
-__Are there special skills required to contribute to the project? If so, what are they?__
-
-
-
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ Just yarn
