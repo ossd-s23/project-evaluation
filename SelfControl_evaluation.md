@@ -154,7 +154,7 @@ __Pull requests__
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__ Not to friendly. There aren't really instructions on how to contribute or what to contribute. Or a code of conduct.
+__How friendly is this project for beginner contributors?__ Not too friendly. There aren't really instructions on how to contribute or what to contribute. Or a code of conduct. There are also no labels for issues such as 'beginner friendly'.
 
 
 
