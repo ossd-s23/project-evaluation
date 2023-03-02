@@ -73,7 +73,7 @@ __Number of commits__: 15,540 commits
 
 __Latest commit__ 
 
-- __link to the commit:__ [Latest commit]([insert link here](https://github.com/facebook/react/commit/6ff1733e63fdb948ae973a713741b4526102c73c))
+- __link to the commit:__ [Latest commit](https://github.com/facebook/react/commit/6ff1733e63fdb948ae973a713741b4526102c73c)
 
 - __who made that commit:__ gnoff
 
