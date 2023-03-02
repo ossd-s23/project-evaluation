@@ -16,7 +16,7 @@ may be very hard to find. Do not _google_ for answers.
 __Project website:__ [Website](https://exercism.org/)
 
 
-__What is the purpose of the project:__ The purpose is to help people learn programming languages. It is an education platform that has lessons is 67 programming languages.
+__What is the purpose of the project:__ The purpose is to help people learn programming languages. It is an education platform that has lessons in 67 programming languages.
 
 
 __How easy was it to find information about contributing on the website?__ It is quite easy. Scroll to the bottom of the homepage to the 'Get Involved' Section and click 'Contribute'.
@@ -41,9 +41,9 @@ __Other communication channels:__
 
 __License:__ [License](https://exercism.org/docs/using/licenses)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ The AGPL 3 and MIT liscenses are OSI approved but not the Creative Commons one,
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ The AGPL 3 and MIT liscenses are OSI approved but not the Creative Commons one.
 
-__Programming Language:__ Multiple, but the top languages are Ruby, Shell, and Javascript
+__Programming Language:__ Multiple, but the top languages are Ruby, Shell, and Javascript.
 
 __URL for contributing instructions:__ [Contributing instructions](https://github.com/exercism/website/blob/main/docs/CONTRIBUTING.md)
 
@@ -58,7 +58,7 @@ __URL for instructions for users to download and install the package:__ For the 
 __Are these instructions clear? Do you think they would be easy to follow?__ I think they are ok. For a first time coder, these could be challenging or confusing instructions.
 
 
-__Number of contributors:__ 368 contributors (in the python repo; there are multiple repos for this website. for this contributors sections, I picked the one of the more popular repos.)
+__Number of contributors:__ 368 contributors (in the python repo. There are multiple repos for this website. For this contributors sections, I picked one of the more popular repos.)
 
 
 __Usernames of three contributors with largest number of commits; for
