@@ -158,13 +158,12 @@ __How friendly is this project for beginner contributors?__
 It doesn't seem to be that friendly considering the lack of starter bugs and the complexity of the codebase.
 
 
-
 __Do the maintainers respond helpfully to questions in issues?__
 Due to the large number, it seems like a lot of issues don't get responsese for a while unless they are a top priority fix. Most responses are from bots that enforce certain rules and run tests, but the human responses are generally very helpful.
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+People seem to generally be friendly, but not afraid to clearly express whether they think something was correctly or incorrectly implemented.
 
 
 __Do pull requests get reviewed?__
@@ -172,7 +171,7 @@ Yes, the core team reviews pull requests and either merges, request changes, or 
 
 
 __Do maintainers thank people for their contributions?__
-
+Yes, looking through pull requests from outside contributors, its seems like members of the core React team say "thanks" and are appreciative of people's work.
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
