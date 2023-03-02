@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__  Hospital Run
+__Project Name:__  REFUGE restrooms
 
 
 ---
@@ -16,22 +16,21 @@ may be very hard to find. Do not _google_ for answers.
 __Project website:__ [Website](https://hospitalrun.io/)
 
 
-__What is the purpose of the project:__ The purpose of HospitalRun is to provide a web-based electronic health record (EHR) and hospital information system (HIS) that prioritizes offline-first functionality with a focus on bringing modern information systems to under-resourced environments.
+__What is the purpose of the project:__ The purpose of the web application REFUGE restrooms is to provide safe restroom access for transgender, intersex, and gender nonconforming individuals.
 
 
-__How easy was it to find information about contributing on the website?__ It was fairly easy. On their website, there is a "Community" tab which, when clicked, gives you the option to click on "Contribute," which redirects you to a page that provides information on how you can 
-contribute.
+__How easy was it to find information about contributing on the website?__ It was fairly easy. When you click on their "About" page, you see in big letters at the top "Fork us and contribute on GitHub!" with a direct link to their GitHub.
 
 
-__Contributing instructions:__ Contributing instruction found on their [website](https://hospitalrun.io/contribute/develop) and instructions found on their GitHub [here](https://github.com/HospitalRun/hospitalrun/blob/master/.github/CONTRIBUTING.md).
+__Contributing instructions:__ Instructions can be found [here](https://github.com/RefugeRestrooms/refugerestrooms/blob/develop/CONTRIBUTING.md).
 
-__URL for the code repository:__ [Code repository](https://github.com/HospitalRun/hospitalrun)
+__URL for the code repository:__ [Code repository](https://github.com/RefugeRestrooms/refugerestrooms)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/HospitalRun/hospitalrun/issues)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/RefugeRestrooms/refugerestrooms/issues)
 
 __Mailing list:__ No mailing list 
 
-__Chat channel:__ they have a slack channel but the link is broken.
+__Chat channel:__ [Chat channel](https://join.slack.com/t/refugelgbt/shared_invite/zt-3zaagpad-DvyfAPcepuRzFBJix1uYkg)
 
 __Other communication channels:__ N/A
 
@@ -40,13 +39,13 @@ __Other communication channels:__ N/A
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](insert link here)
+__License:__ [License](https://github.com/RefugeRestrooms/refugerestrooms/blob/develop/LICENSE.txt)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
+Is it [OSI approved](https://opensource.org/licenses/alphabetical)? yes
 
-__Programming Language:__ 
+__Programming Language:__ Javascript, HTML / SASS, Ruby
 
-__URL for contributing instructions:__ [Contributing instructions](insert link here)
+__URL for contributing instructions:__ [Contributing instructions](https://github.com/RefugeRestrooms/refugerestrooms/blob/develop/CONTRIBUTING.md)
 
 __Are the contributing instructions clear?__ 
 
