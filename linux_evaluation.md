@@ -69,82 +69,82 @@ each of them list the link to their latest commit__: Over the last year the top 
 3. Dmitry Baryshkov (761 commits in the last year) - [Their Latest Commit](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=1d233b1cb149ec78c20fac58331b27bb460f9558)
 
 
-__Number of commits:__ 
+__Number of commits:__ 1168749
 
 __Latest commit__ [here](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/)
 
-- __link to the commit:__ [Latest commit](insert link here)
+- __link to the commit:__ included above
 
 - __who made that commit:__ Linus Torvalds (he merges things in)
 
-- __what type of work was commited?__ (was it a fix to a bug, implementation of a new feature, ...)
+- __what type of work was commited?__ Merge of test
 
 
 __Issues__
 
-- __how many open issues are there:__ [xxx Open Issues](insert link here)
+- __how many open issues are there:__ 9606
 
-    - __url for the last issue created:__ [Last issue created](insert link here)
+    - __url for the last issue created:__ [Last issue created](https://bugzilla.kernel.org/show_bug.cgi?id=217109)
 
-    - __how many users discuss the issue:__ xx person
+    - __how many users discuss the issue:__ 1
     
-    - __when was the issue reported:__ 
+    - __when was the issue reported:__ one hour ago
     
 
-- __how many closed issues are there:__ [xxx closed issues](insert link here)
-    - __url for the last issue closed:__ [Last issue closed](insert link here)
+- __how many closed issues are there:__ [over 10000](https://bugzilla.kernel.org/buglist.cgi?bug_status=RESOLVED&chfield=%5BBug%20creation%5D&chfieldto=Now&f1=bug_status&limit=0&o1=anyexact&order=bug_status%2Cpriority%2Cassigned_to%2Cbug_id&query_format=advanced&v1=RESOLVED%2CCLOSED%2CREJECTED)
+    - __url for the last issue closed:__ [Last issue closed](https://bugzilla.kernel.org/show_bug.cgi?id=217089)
     - __how many users discussed the issue:__ xx people
-    - __when was the issue reported:__ 
-    - __when was the issue closed:__ 
+    - __when was the issue reported:__ 3 days ago
+    - __when was the issue closed:__ Today
 
-- __how active is the discussion on the issues:__ 
+- __how active is the discussion on the issues:__ Very
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://bugzilla.kernel.org/show_bug.cgi?id=217089)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://bugzilla.kernel.org/show_bug.cgi?id=217109)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ No
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ NA
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ NA
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ At least 85 on one part of documentation
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Yes
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ The git repo has patchlists, not pull requests, the only way to tell with them would be to look through the entire mailing list history
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ N/A
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ N/A
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ N/A
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ N/A
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ N/A
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ N/A
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ N/A
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  N/A
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ N/A
     
 
-- __do maintainers respond quickly to pull requests when they are opened?__ 
+- __do maintainers respond quickly to pull requests when they are opened?__ Maintainers do respond quickly to patchlists submitted through the proper channels
 
 
 
@@ -155,30 +155,30 @@ __Pull requests__
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+Not terribly friendly. It requires a great deal of domain specific knowledge as well as a willingness to dive into a complicated codebase with relatively esoteric code submission mechanisms. However, there are ample resources and there is a desire for and capacity to take on new contributors.
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Yes
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+Yes in general, but new contributors should go to the linked linux newbies forum to ask relatively simple questions, those that would sometimes be called "stupid" questions
 
 
 
 __Do pull requests get reviewed?__
-
+Yes patchlists do absolutely get reviewed
 
 
 __Do maintainers thank people for their contributions?__
-
+Yes
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+A deep knowledge of modern operating systems, a willingness to specialize, and background in the overall structure of the kernel.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
+Running a virtual machine to test is necessary to test most things. Otherwise no, besides the fact that you need a lot of storage to hold the whole kernel source and time to compile it
