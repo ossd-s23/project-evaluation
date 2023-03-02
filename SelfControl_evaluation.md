@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__ Exercism 
+__Project Name:__ Self Control
 
 
 ---
@@ -16,21 +16,21 @@ may be very hard to find. Do not _google_ for answers.
 __Project website:__ [Website](insert link here)
 
 
-__What is the purpose of the project:__ The purpose is to help people learn programming languages. It is an education platform that has lessons is 67 programming languages.
+__What is the purpose of the project:__ 
 
 
-__How easy was it to find information about contributing on the website?__ It is quite easy. Scroll to the bottom of the homepage to the 'Get Involved' Section and click 'Contribute'.
+__How easy was it to find information about contributing on the website?__ 
 
 
-__Contributing instructions:__ [Here](https://exercism.org/docs/building) 
+__Contributing instructions:__ [Here](insert link here) 
 
-__URL for the code repository:__ [Code repository](https://github.com/exercism/exercism)
+__URL for the code repository:__ [Code repository](insert link here)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/exercism/exercism/issues)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
 
-__Mailing list:__ Not found
+__Mailing list:__ [Mailing list](insert link here)
 
-__Chat channel:__ [Chat channel](https://forum.exercism.org/categories)
+__Chat channel:__ [Chat channel](insert link here)
 
 __Other communication channels:__ 
 
@@ -39,26 +39,26 @@ __Other communication channels:__
 
 ## Finding info at the project repository and bug/issue tracker.
 
-__License:__ [License](https://exercism.org/docs/using/licenses)
+__License:__ [License](insert link here)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ The AGPL 3 and MIT liscenses are OSI approved but not the Creative Commons one,
+__Is it [OSI approved](https://opensource.org/licenses/alphabetical) license:__ 
 
-__Programming Language:__ Multiple, but the top languages are Ruby, Shell, and Javascript
+__Programming Language:__ 
 
-__URL for contributing instructions:__ [Contributing instructions](https://github.com/exercism/website/blob/main/docs/CONTRIBUTING.md)
+__URL for contributing instructions:__ [Contributing instructions](insert link here)
 
-__Are the contributing instructions clear?__ Yes, and very thorough.
-
-
-__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](https://github.com/exercism/exercism/blob/main/CODE_OF_CONDUCT.md)
-
-__URL for instructions for users to download and install the package:__ For the 'website' repo, there are instructions [here](https://github.com/exercism/website/blob/main/README.md) in the readme. 
+__Are the contributing instructions clear?__ 
 
 
-__Are these instructions clear? Do you think they would be easy to follow?__ I think they are ok. For a first time coder, these could be challenging or confusing instructions.
+__URL for code of conduct / community norms / community guildelines:__ [Community Guidelines](insert link here)
+
+__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](insert link here). 
 
 
-__Number of contributors:__ 368 contributors (in the python repo; there are multiple repos for this website. for this contributors sections, I picked the one with the most contributors)
+__Are these instructions clear? Do you think they would be easy to follow?__ 
+
+
+__Number of contributors:__ xxx contributors
 
 
 __Usernames of three contributors with largest number of commits; for
@@ -181,4 +181,3 @@ __Are there special skills required to contribute to the project? If so, what ar
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
-
