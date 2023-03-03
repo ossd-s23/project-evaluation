@@ -123,29 +123,29 @@ __Issues__
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 133 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/opencv/opencv/pull/23321)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ 15 Hours ago
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/opencv/opencv/pull/10318)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ December 2017!
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 13,556 pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/opencv/opencv/pull/23320)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 1 users
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  16 Hours ago
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ Also 16 Hours ago
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
-
+Yes, but it often depends on the level and complexity of the request as always
 
 
 
@@ -155,29 +155,30 @@ __Pull requests__
 
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
+No, as there is a steep learning curve to learn how to even use OpenCV, let alone begint to contribute to it. 
 
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Yes, issues get resloved fairly quickly and there is often much discussion
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
+Yes, they have set up a very friendly environment for discussion 
 
 
 
 __Do pull requests get reviewed?__
-
+Yes
 
 
 __Do maintainers thank people for their contributions?__
-
+Not that I see.
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+Contributors must have an understanding of computer vision fundamentals as well as C++/Python.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+No, someone in the discussions mentioned "OpenCV will run on anything. Even on a Raspberry Pi", which is very suprising to me. 
