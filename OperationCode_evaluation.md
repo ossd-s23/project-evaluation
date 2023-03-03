@@ -2,7 +2,7 @@
 
 
 
-__Project Name:__ FairChange
+__Project Name:__ Operation Code
 
 
 ---
@@ -176,7 +176,7 @@ __Do maintainers thank people for their contributions?__ Yes!
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__ You'd need to know at least a little bit abot the project
+__Are there special skills required to contribute to the project? If so, what are they?__ You'd need to know at least a little bit about the project
 
 
 
