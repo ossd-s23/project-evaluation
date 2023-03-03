@@ -153,25 +153,35 @@ __Pull requests__
 
 
 ## Summary assessment
-__How friendly is this project for beginner contributors?__ I think it’s friendly. This is because the maintainers respond not slowly, and also there are several recent issues marked for beginners. Also, there’re less stacked issues and PRs, therefore it’s less possible for beginner contributors’ voices to be ignored.
+__How friendly is this project for beginner contributors?__ 
+
+I think it’s friendly. This is because the maintainers respond not slowly, and also there are several recent issues marked for beginners. Also, there’re less stacked issues and PRs, therefore it’s less possible for beginner contributors’ voices to be ignored.
 
 
 
-__Do the maintainers respond helpfully to questions in issues?__ Yes, they do. They always provided guidance to people who want to contribute to the issue.
+__Do the maintainers respond helpfully to questions in issues?__ 
+
+Yes, they do. They always provided guidance to people who want to contribute to the issue.
 
 
 
-__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ Yes, people are friendly in the issues, but there’s no discussion forum and chat channel.
+__Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__ 
+
+Yes, people are friendly in the issues, but there’s no discussion forum and chat channel.
 
 
-__Do pull requests get reviewed?__ Yes.
+__Do pull requests get reviewed?__ 
+
+Yes.
 
 
-__Do maintainers thank people for their contributions?__ Yes. I saw them multiple times.
+__Do maintainers thank people for their contributions?__
 
+Yes. I saw them multiple times.
 
+__Are there special skills required to contribute to the project? If so, what are they?__
 
-__Are there special skills required to contribute to the project? If so, what are they?__ No special skills. However, there are several roles provided as the guidance:
+No special skills. However, there are several roles provided as the guidance:
 
 1. Web page developer: Works on static web pages, such as those used in the TEAMMATES product web site.
 
@@ -192,7 +202,9 @@ Angular, TypeScript: 1,2,3
 
 Java, Servlet, Google App Engine: 3,4,5
 
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ No.
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+
+No.
 
 
 
