@@ -16,10 +16,10 @@ may be very hard to find. Do not _google_ for answers.
 __Project website:__ [Website](https://www.if-me.org/)
 
 
-__What is the purpose of the project:__ The purpose of the project **if me** is to provide a safe space that encourages people to share their personal mental health experiences with trusted allies.
+__What is the purpose of the project:__ The purpose of the **if me** project is to provide a safe space that encourages people to share their personal mental health experiences with trusted allies.
 
 
-__How easy was it to find information about contributing on the website?__ It was challenging to find information about contributing. Unfortunately, they don't have a dedicated contribution section on their website. However, I did eventually find this information in their about page.  
+__How easy was it to find information about contributing on the website?__ It was a little challenging to find information about contributing. Unfortunately, they don't have a dedicated contribution section on their website. However, I did eventually find this information in their about page.  
 
 
 __Contributing instructions:__ [Here](https://github.com/ifmeorg/ifme/blob/main/CONTRIBUTING.md) 
@@ -41,7 +41,7 @@ __Other communication channels:__ N/A
 
 __License:__ [License](https://github.com/ifmeorg/ifme/blob/main/LICENSE.txt)
 
-__Is it [OSI approved](https://opensource.org/licenses/alphabetical) yes
+Is it [OSI approved](https://opensource.org/licenses/alphabetical)? yes
 
 __Programming Language:__ Ruby, JavaScript, HTML, SCSS
 
@@ -109,15 +109,15 @@ __Issues__
 
     - __how many of such issues are there?__ 0 open issues at the moment labeled as beginner friendly or good first issues. They do have 146 closed issues labeled as beginner friendly.
     
-    - __look at a few of them, do they look beginner friendly?__ yes they do. Some of the closed beginner friendly issues involved updating links in documentation or fixing code style to camelcase for example.
+    - __look at a few of them, do they look beginner friendly?__ For the closed beginner friendly issues, they do look beginner friendly. For example, some of these issues involved updating links in documentation or fixing code style to camelcase.
 
 
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ 1 open issue but there were 13 closed issues related to documenation. 
+    - __how many of such issues are there?__ 1 open issue but there were 13 closed issues related to documentation. 
     
-    - __look at a few of them, do you think you could submit a fix?__ For the issue open right now, I don't think I could submit a fix. 
+    - __look at a few of them, do you think you could submit a fix?__ I don't think I could submit a fix for the open issue. 
 
 
 
@@ -154,7 +154,7 @@ __Pull requests__
 
 
 ## Summary assesment
-__How friendly is this project for beginner contributors?__ not beginner friendly.
+__How friendly is this project for beginner contributors?__ Not beginner friendly.
 
 
 
@@ -176,8 +176,8 @@ __Do maintainers thank people for their contributions?__ yes
 
 
 
-__Are there special skills required to contribute to the project? If so, what are they?__
+__Are there special skills required to contribute to the project? If so, what are they?__ While no special skills are required, having experience with Ruby on Rails and React would be beneficial.
 
 
 
-__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ 
+__Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__ Yes you need to download software to set up your development environment. Some software that would be required is Ruby on Rails, Docker, Vagrant, PostgreSQL, Xcode, or Yarn depending on whether you have a macOS, Windows, or Linux system.
