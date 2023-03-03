@@ -65,15 +65,15 @@ __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
 1. [alalek] (2671 commits) - [Their Latest Commit](https://github.com/opencv/opencv/commit/0052d46b8e33c7bfe0e1450e4bff28b88f455570)
-2. [ilya-lavrenov] (993 commits) - [Their Latest Commit]([insert link here](https://github.com/opencv/opencv/commit/5b3d5f9f3c3c96f0f0f602983661d012a4a447c1))
-3. [mshabunin] (574 commits) - [Their Latest Commit]([insert link here](https://github.com/opencv/opencv/commit/903ec0ec60b5785a01fb90563199249e9a89db20))
+2. [ilya-lavrenov] (993 commits) - [Their Latest Commit](https://github.com/opencv/opencv/commit/5b3d5f9f3c3c96f0f0f602983661d012a4a447c1)
+3. [mshabunin] (574 commits) - [Their Latest Commit](https://github.com/opencv/opencv/commit/903ec0ec60b5785a01fb90563199249e9a89db20)
 
 
 __Number of commits:__ 32,702 commits
 
 __Latest commit__ [] 
 
-- __link to the commit:__ [Latest commit]([insert link here](https://github.com/opencv/opencv/commit/0052d46b8e33c7bfe0e1450e4bff28b88f455570))
+- __link to the commit:__ [Latest commit](https://github.com/opencv/opencv/commit/0052d46b8e33c7bfe0e1450e4bff28b88f455570)
 
 - __who made that commit:__ @alalek
 
