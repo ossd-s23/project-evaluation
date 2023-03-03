@@ -29,7 +29,7 @@ __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/jupyterhub/ju
 
 __Mailing list:__ [Mailing List](https://groups.google.com/g/jupyter)
 
-__Chat channel:__ [Gitter for Project Jupyter ](https://gitter.im/jupyter/jupyter) [Gitter for JupyterHub](https://gitter.im/jupyterhub/jupyterhub)
+__Chat channel:__ [Gitter for Project Jupyter ](https://gitter.im/jupyter/jupyter), [Gitter for JupyterHub](https://gitter.im/jupyterhub/jupyterhub)
 
 __Other communication channels:__ [Discourse Forum](https://discourse.jupyter.org/), [Live events](https://jupyter.org/community#live-events)
 
