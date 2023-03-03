@@ -26,7 +26,7 @@ __Contributing instructions:__ [Here](https://opencv.org/opencv-development-part
 
 __URL for the code repository:__ [Code repository](https://github.com/opencv/opencv)
 
-__Bug/Issue tracker link:__ [Bug/Issue tracker](insert link here)
+__Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/opencv/opencv/issues/)
 
 __Mailing list:__ [Mailing list](https://opencv.org/subscribe/)
 
@@ -99,25 +99,25 @@ __Issues__
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](insert link here)
+    - __example of a lot of good discussion:__ [Good discussion](https://forum.opencv.org/t/welcome-to-opencv-forum/7)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](insert link here)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://forum.opencv.org/t/opencv-dll-redistribution/12208)
 
 
 
-- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
+- __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ No, this does not display whether an issue is good for newbibes, beginner, etc.
 
-    - __how many of such issues are there?__ xxx issues
+    - __how many of such issues are there?__ Many issues
     
-    - __look at a few of them, do they look beginner friendly?__ 
+    - __look at a few of them, do they look beginner friendly?__ Often they're asking about compatibility, so that may be beginner friendly to address/
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ Yes
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 120 Open
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Yes, some of them are like "Python Link is Broken"
 
 
 
