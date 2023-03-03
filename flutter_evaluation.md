@@ -23,7 +23,7 @@ __URL for the code repository:__ [Code repository](https://github.com/flutter/fl
 
 __Bug/Issue tracker link:__ [Bug/Issue tracker](https://github.com/flutter/flutter/issues)
 
-__Mailing list:__ None
+__Mailing list:__ [Mailing List](https://groups.google.com/forum/#!forum/flutter-announce)
 
 __Chat channel:__ [Discord](https://github.com/flutter/flutter/wiki/Chat)
 
@@ -47,7 +47,7 @@ __Are the contributing instructions clear?__ Yes, they are very detailed and eve
 
 __URL for code of conduct / community norms / community guildelines:__ [Code of Conduct](https://github.com/flutter/flutter/blob/master/CODE_OF_CONDUCT.md)
 
-__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here]https://github.com/flutter/flutter/wiki/Setting-up-the-Engine-development-environment. 
+__URL for instructions for users to download and install the package:__ There are multiple ways to install this software [here](https://github.com/flutter/flutter/wiki/Setting-up-the-Engine-development-environment).
 
 
 __Are these instructions clear? Do you think they would be easy to follow?__ Yes, they seem detailed and cover multiples OSes.
@@ -108,71 +108,66 @@ __Issues__
 
 
 
-- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
+- __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ yes
 
-    - __how many of such issues are there?__ 
+    - __how many of such issues are there?__ 687
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ I don't think so, since most of them require extensive knowledge on a very specific part of Flutter.
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ xx pull requests
+- __how many open pull requests are there:__ 175 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created]()
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/flutter/flutter/pull/121851)
     
-    - __when was the last pull request made:__ [Last Pull Request created]()
+    - __when was the last pull request made:__ 1 minute ago (10pm, 3/2/2023)
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created]()
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/flutter/flutter/pull/94128)
     
-    - __when was the oldest pull request made:__ 
+    - __when was the oldest pull request made:__ Nov 23, 2021
 
-- __how many closed pull requests are there:__ 
+- __how many closed pull requests are there:__ 41,717
 
-    - __url for the last pull request closed:__ [Last Pull Request closed]()
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/flutter/flutter/pull/121849)
     
-    - __how many users discussed the pull request:__ xx users
+    - __how many users discussed the pull request:__ 2 bots
     
-    - __when was the pull request made:__  
+    - __when was the pull request made:__  32 minutes ago (9:30pm, 3/2/2023)
     
-    - __when was the pull request closed:__ 
+    - __when was the pull request closed:__ 5 minutes ago (10pm, 3/2/2023)
     
 
 - __do maintainers respond quickly to pull requests when they are opened?__ 
-
-
-
-
+It seems like they depend heavily on bots to do a lot of the less complex error checking and reviewing, but the maintainers definitely look at pull requests usually within the day they are created.
 
 ---
 
-
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
-
-
+I think this project is considerably friendly to beginners. They have very clear contributing instructions, more starter bugs than I've seen on other projects, and a huge, active contributor community.
 
 
 __Do the maintainers respond helpfully to questions in issues?__
-
+Looking at a few of the questions on the beginner issues, the core maintainers seem to be generally nice and responsive, although I did see one user respond a bit rudely to some questions. 
 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
-
-
+Yes, they seem to be respectful but definitely a place where many experience developers are discussing what seem to be important changes. One helpful note is that heir Discord has many subcommunities that makes it easier to find people similar in experience or identity.
 
 
 __Do pull requests get reviewed?__
-
+Yes, the pull requests are reviewed by the core maintainers.
 
 
 __Do maintainers thank people for their contributions?__
-
+Yes, on the contributions submitted by users, I see core maintainers saying thanks and showing positive encouragement when reviewing code.
 
 
 __Are there special skills required to contribute to the project? If so, what are they?__
-
+A deep understanding of web development languages like Dart (very similar to Javascript) if working on the Flutter Framework, and knowledge on C++, Java, and Objective-C if working on the Flutter engine.
 
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
+While there are no special hardware requirements, they do require lots of software, such as Chromium's depot_tools, Xcode, and Java JDK.
