@@ -27,7 +27,7 @@ __Mailing list:__ [Mailing List](https://talk.openmrs.org/)
 
 __Chat channel:__ [IRC](https://wiki.openmrs.org/display/IRC)
 
-__Other communication channels: [Ask OpenMRS](https://talk.openmrs.org/c/ask?src=sidebar), [OpenMRS Talk](https://talk.openmrs.org/?src=sidebar), [Slack](https://slack.openmrs.org/?src=sidebar)
+__Other communication channels:__ [Ask OpenMRS](https://talk.openmrs.org/c/ask?src=sidebar), [OpenMRS Talk](https://talk.openmrs.org/?src=sidebar), [Slack](https://slack.openmrs.org/?src=sidebar)
 
 
 ---
@@ -113,7 +113,7 @@ They seem fairly complicated at first glance, but a lot of them have helpful com
     I don't think it would be good for newcomers to contribute to these just because they mostly have to do with onboarding docs, which should be maintained by people with more experience.
 
 
-__Pull requests__
+__Pull requests__: [Link](https://github.com/openmrs/openmrs-core/pulls)
 
 - __how many open pull requests are there:__ 10 pull requests
 
