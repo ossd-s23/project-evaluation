@@ -55,90 +55,90 @@ __URL for instructions for users to download and install the package:__ [Setting
 
 __Are these instructions clear? Do you think they would be easy to follow?__ 
 
+Yes. They clearly show instructions for setting up a development install step by step giving useful link of it
 
 
-
-__Number of contributors:__ 593 contributors
+__Number of contributors:__ 292 contributors
 
 
 __Usernames of three contributors with largest number of commits; for
 each of them list the link to their latest commit__:
 
-1. [Sean Lip](https://github.com/seanlip) (3,480 commits) - [Their Latest Commit](https://github.com/oppia/oppia/commit/44fa85212b87c2db0cd51fc373b6e014a9337aa1)
-2. [Kevin Thomas](https://github.com/kevintab95) (399 commits) - [Their Latest Commit](https://github.com/oppia/oppia/commit/24298204cfaf7ade44fcf7542418cc1d66de77a1)
-3. [Vojtěch Jelínek](https://github.com/vojtechjelinek) (379 commits) - [Their Latest Commit](https://github.com/oppia/oppia/commit/aa8dce1e6fe9e5aa5f437181d7edc1b9b1b4fc88)
+1. [Min RK](https://github.com/minrk) (2,110 commits) - [Their Latest Commit](https://github.com/jupyterhub/jupyterhub/commit/4026ed87e89674a59896a11118d0a68c98d8aa0b)
+2. [Carol Willing](https://github.com/willingc) (410 commits) - [Their Latest Commit](https://github.com/jupyterhub/jupyterhub/commit/aa459aeb39ff3236dc47a75d393722f2f4123cef)
+3. [Erik Sundell](https://github.com/consideRatio) (170 commits) - [Their Latest Commit](https://github.com/jupyterhub/jupyterhub/commit/f57d196e3338f4aa8ab3c53bad888541cbf2fb48)
 
 
-__Number of commits:__ 14,847 commits
+__Number of commits:__ 6,696 commits
 
 __Latest commit__
 
-- __link to the commit:__ [Latest commit](https://github.com/oppia/oppia/commit/a48d41ab124b97c25d89068e9f1d1ca4d3fb14d1)
+- __link to the commit:__ [Latest commit](https://github.com/jupyterhub/jupyterhub/commit/850f430ad6e0f5f730599d6a4db79fa4eb56d075)
 
-- __who made that commit:__ [Sandeep Dubey](https://github.com/DubeySandeep)
+- __who made that commit:__ [Simon Li](https://github.com/manics)
 
-- __what type of work was commited?__ it was a fixing unwanted changes
+- __what type of work was commited?__ it was merging other branches to this project, and that merged branch was for improving performance
 
 
 __Issues__
 
-- __how many open issues are there:__ [1,137 Open Issues](https://github.com/oppia/oppia/issues?q=is%3Aopen+is%3Aissue)
+- __how many open issues are there:__ [159 Open Issues](https://github.com/jupyterhub/jupyterhub/issues?q=is%3Aopen+is%3Aissue)
 
-    - __url for the last issue created:__ [Last issue created](https://github.com/oppia/oppia/issues/17546)
+    - __url for the last issue created:__ [Last issue created](https://github.com/jupyterhub/jupyterhub/issues/4380)
 
-    - __how many users discuss the issue:__ 3 people
+    - __how many users discuss the issue:__ 2 people
     
-    - __when was the issue reported:__ 16 hours ago
+    - __when was the issue reported:__ yesterday
     
-- __how many closed issues are there:__ [5,648 closed issues](https://github.com/oppia/oppia/issues?q=is%3Aissue+is%3Aclosed)
-    - __url for the last issue closed:__ [Last issue closed](https://github.com/oppia/oppia/issues/17505)
-    - __how many users discussed the issue:__ 2 people
-    - __when was the issue reported:__ 4 days ago
-    - __when was the issue closed:__ 4 days ago
+- __how many closed issues are there:__ [2,082 closed issues](https://github.com/jupyterhub/jupyterhub/issues?q=is%3Aissue+is%3Aclosed)
+    - __url for the last issue closed:__ [Last issue closed](https://github.com/jupyterhub/jupyterhub/issues/4382)
+    - __how many users discussed the issue:__ 1 person
+    - __when was the issue reported:__ 18 hours ago
+    - __when was the issue closed:__ 18 hours ago
 
 - __how active is the discussion on the issues:__ 
 
-    - __example of a lot of good discussion:__ [Good discussion](https://github.com/oppia/oppia/issues/4057)
+    - __example of a lot of good discussion:__ [Good discussion](https://github.com/jupyterhub/jupyterhub/issues/3099)
     
-    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/oppia/oppia/issues/17320)
+    - __example of an issue that does not have much discussion:__ [Not much discussion](https://github.com/jupyterhub/jupyterhub/issues/4344)
 
 
 
 - __are there issues marked "good for newbies", "beginner" or some other indicators that imply that they are good for beginner contributors:__ 
 
-    - __how many of such issues are there?__ 42 issues
+    - __how many of such issues are there?__ 3 issues
     
-    - __look at a few of them, do they look beginner friendly?__ Some of them are yes. They seems to be solved with some intermediate front-end html/css/javascript knowledge
+    - __look at a few of them, do they look beginner friendly?__ Two of them are related with documentation and one of them is API server issue but also related with documentation also.
 
 - __are there issues marked "documentation" or some other indicators that imply that they are documentation (user or developer specific):__ 
 
-    - __how many of such issues are there?__ I cannot see any "documentation" or any other issues marked for documentation.
+    - __how many of such issues are there?__ 33 issues
     
-    - __look at a few of them, do you think you could submit a fix?__ 
+    - __look at a few of them, do you think you could submit a fix?__ Most of them are self documentation for maintainers and some of them are looks like related with md file. Some of them are minor issue like fixing typo, so I might try this one first. 
 
 
 
 __Pull requests__
 
-- __how many open pull requests are there:__ 53 pull requests
+- __how many open pull requests are there:__ 25 pull requests
 
-    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/oppia/oppia/pull/17547)
+    - __url for the last pull request created:__ [Last Pull Request created](https://github.com/jupyterhub/jupyterhub/pull/4381)
     
-    - __when was the last pull request made:__ 15 hours ago
+    - __when was the last pull request made:__ Yesterday
 
-    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/oppia/oppia/pull/15910)
+    - __url for the oldest pull request created:__ [Oldest Pull Request created](https://github.com/jupyterhub/jupyterhub/pull/2726)
     
-    - __when was the oldest pull request made:__ Aug 17, 2022
+    - __when was the oldest pull request made:__ Sep 9, 2019
 
-- __how many closed pull requests are there:__ 10,291 pull requests
+- __how many closed pull requests are there:__ 2,051 pull requests
 
-    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/oppia/oppia/pull/17541)
+    - __url for the last pull request closed:__ [Last Pull Request closed](https://github.com/jupyterhub/jupyterhub/pull/4383)
     
-    - __how many users discussed the pull request:__ 1 user (and oppia bot)
+    - __how many users discussed the pull request:__ 1 user
     
-    - __when was the pull request made:__  yesterday
+    - __when was the pull request made:__  16 hours ago
     
-    - __when was the pull request closed:__ yesterday
+    - __when was the pull request closed:__ 16 hours ago
     
 - __do maintainers respond quickly to pull requests when they are opened?__ 
 
@@ -152,7 +152,7 @@ __Pull requests__
 ## Summary assesment
 __How friendly is this project for beginner contributors?__
 
-This projects looks like very friendly to begineers. They have really easy detail instructions for starting contributing to this project and has tag for "good first issue" so that beginner can try their first issue with easy problems
+This projects kinda looks friendly to begineers. They have all instructions from setting up a development install to how to contribute the project. They do have tag "good first issue", but there are only 3. Therefore, community itself is pretty friendly for beginners, but I am not sure there are issues that beginner can try out their first contributing.
 
 
 __Do the maintainers respond helpfully to questions in issues?__
@@ -166,7 +166,7 @@ Yes. People in community looks like friendly and also maintainors responses cont
 
 __Do pull requests get reviewed?__
 
-Yes mostly "oppiabot" check pull requests and ask to change it if some part of merge request or label is not in appropriate way.
+Yes "pre-commit-ci[bot]" check pull requests first and fixing automatically. After that, maintainer reviews and leaving the comments and merge it.
 
 __Do maintainers thank people for their contributions?__
 
@@ -174,7 +174,7 @@ Yes.
 
 __Are there special skills required to contribute to the project? If so, what are they?__
 
-Most of issues looks like web-developments related, so probably better to have web-development knowledge. However, there is no "hard" required skill to contribute this project. 
+It's based on issue by issue but they do not have "hard" required skills to participate this project
 
 __Are there any special hardware/software requirements to be able to contribute to the project? If so, what are they?__
 
