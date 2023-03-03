@@ -91,7 +91,7 @@ __Issues__
     - __when was the issue reported:__ 2 Days Ago
     
 
-- __how many closed issues are there:__ [7175 closed issues]([insert link here](https://github.com/opencv/opencv/issues?q=is%3Aissue+is%3Aclosed))
+- __how many closed issues are there:__ [7175 closed issues](https://github.com/opencv/opencv/issues?q=is%3Aissue+is%3Aclosed)
     - __url for the last issue closed:__ [Last issue closed](https://github.com/opencv/opencv/issues/23322)
     - __how many users discussed the issue:__ xx people
     - __when was the issue reported:__ 4 hours ago
