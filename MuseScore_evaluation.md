@@ -169,7 +169,25 @@ Yes. They respond fairly quickly and ask follow-up questions if needed and keep 
 
 __Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?__
 
-Yes. I joined the Discord server and most of the interactions seem friendly and constructive. There are some users whose communication in the chat comes across as a bit arrogant to me personally, but I think that tone can be difficult to interpret via online chat. I screenshotted the most recent interaction which I thought was not very friendly. (jeetee)’s response seemed somewhat arrogant and demeaning. 
+Yes. I joined the Discord server and most of the interactions seem friendly and constructive. There are some users whose communication in the chat comes across as a bit arrogant to me personally, but I think that tone can be difficult to interpret via online chat. I'm copying and pasting the transcript of an interaction which I thought was not very friendly on the Discord support channel with the usernames changed. C’s response seemed somewhat pretty arrogant and unhelpful to me :skull:
+
+--- 
+A: How can i use a Text Font that i donwloaded to use on Musescore Text fields? 
+
+B: Just select it in the properties panel while editing the text in question, or set it as the style for that text type 
+
+A: The Text Font that im talking  isnt on musescore, because i donwloaded it on the web. How can i use It inside musescore? Do you know? 
+
+C: What about Marc's answer isn't clear to you? 
+because it really should be as easy as selecting the font in the dropdown of the properties for the text 
+after you've installed the font on your PC and restarted MuseScore to allow it load it inside its font list
+
+A: Hmmm, ok  
+ill try it 
+Thanks, you two 
+
+--- 
+
 
 __Do pull requests get reviewed?__
 
